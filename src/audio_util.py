@@ -51,4 +51,4 @@ def get_audio_duration_wav(fname):
         return frames / float(rate)
 
 if __name__ == "__main__":
-    split_mp3("../old_input/drake-toosie_slide.mp3", "../input/")
+    split_mp3("../old_input/drake-toosie_slide.mp3", "../source-separation-input/")
