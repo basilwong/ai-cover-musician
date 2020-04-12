@@ -40,7 +40,6 @@ def split_mp3(fname, output_path):
         total_duration += THIRTY_SEC
         num_files += 1
 
-
 def get_audio_duration_wav(fname):
     """
     Takes a string specifying the path to a .wav file and returns the duration
