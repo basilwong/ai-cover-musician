@@ -1,9 +1,10 @@
 import json
+import pathlib
 
 def load_json(file):
     """Load in JSON file and return as dict"""
 
-    json_filepath = Path(file)
+    json_filepath = pathlib.Path(file)
     assert json_filepath.is_file(), "JSON file does not exist"
 
     data = json.load(open(json_filepath.absolute(), "r", encoding="utf-8"))
