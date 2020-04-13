@@ -50,5 +50,18 @@ def get_audio_duration_wav(fname):
         rate = f.getframerate()
         return frames / float(rate)
 
+def get_silence(duration):
+    """
+    Assumes called from main.ipynb
+
+    duration is in milliseconds
+    """
+    sound = AudioSegment.from_mp3("src/silence.mp3")
+    return sound[:duration]
+
+def determine_pitch(fname):
+    pass
+    # TODO
+
 if __name__ == "__main__":
     split_mp3("../songs/drake-toosie_slide.mp3", "../source-separation-input/")
