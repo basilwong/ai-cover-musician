@@ -15,14 +15,17 @@ def load_json(file):
 
     return data
 
-class TranscriptionData:
+class TranscriptionItem:
 
-    def __init__(self, start_time, end_time, confidence, content, type):
-        self.start_time = float(start_time)
-        self.end_time = float(end_time)
-        self.confidence = float(confidence)
-        self.content = content
-        self.type = type
+    def __init__(self, item_dict):
+        self.type = item_dict["type"]
+        alternatives = item_dict["alternatives"][0]
+        self.confidence = float(alternatives["confidence"])
+        self.content = alternatives["content"]
+        if self.is_word():
+            self.start_time = float(item_dict["start_time"]) * 1000 # milliseconds
+            self.end_time = float(item_dict["end_time"]) * 1000 # milliseconds
+
 
     def is_word(self):
         return self.type = "pronunciation"
