@@ -28,7 +28,7 @@ class TranscriptionItem:
 
 
     def is_word(self):
-        return self.type = "pronunciation"
+        return self.type == "pronunciation"
 
     def duration(self):
         return self.end_time - self.start_time
