@@ -76,6 +76,8 @@ def interpret_polly_output_file(fname):
         return get_silence(data["length"])
     elif fname.endswith(".mp3"):
         return AudioSegment.from_mp3(fname)
+    elif fname.endswith(".wav"):
+        return AudioSegment.from_wav(fname)
     else:
         raise Exception('Unknown file in the polly output folder: ' + fname)
 
