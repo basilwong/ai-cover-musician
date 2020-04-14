@@ -8,6 +8,7 @@ notebook.
 
 import os
 import pydub
+from tqdm import tqdm
 
 # some_file.py
 import sys
@@ -22,17 +23,17 @@ FINAL_OUTPUT_FOLDER = "final-output/"
 
 # Generate Background
 background_mp3_files = [BACKGROUND_FOLDER + s for s in sorted(os.listdir(BACKGROUND_FOLDER))]
-print(background_mp3_files)
-background_mp3 = sum([audio_util.interpret_polly_output_file(fpath) for fpath in background_mp3_files])
+background_mp3 = audio_util.interpret_polly_output_file(background_mp3_files[0])
+background_mp3_files.pop(0)
+for fname in tqdm(background_mp3_files):
+    background_mp3 += audio_util.interpret_polly_output_file(fname)
 background_mp3.export(FINAL_OUTPUT_FOLDER + "background.mp3", format="mp3")
 
 list_of_polly_output = [POLLY_OUTPUT_FOLDER + s for s in sorted(os.listdir(POLLY_OUTPUT_FOLDER))]
 vocal_mp3 = audio_util.interpret_polly_output_file(list_of_polly_output[0])
 list_of_polly_output.pop(0)
-
-for i, fpath in enumerate(list_of_polly_output):
-    vocal_mp3 += audio_util.interpret_polly_output_file(fpath)
-
+for fname in tqdm(list_of_polly_output):
+    vocal_mp3 += audio_util.interpret_polly_output_file(fname)
 vocal_mp3.export(FINAL_OUTPUT_FOLDER + "vocals.mp3", format="mp3")
 
 final_audio = background_mp3.overlay(vocal_mp3)
