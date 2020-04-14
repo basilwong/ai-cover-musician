@@ -34,3 +34,7 @@ for i, fpath in enumerate(list_of_polly_output):
     vocal_mp3 += audio_util.interpret_polly_output_file(fpath)
 
 vocal_mp3.export(FINAL_OUTPUT_FOLDER + "vocals.mp3", format="mp3")
+
+final_audio = background_mp3.overlay(vocal_mp3)
+
+final_audio.export(FINAL_OUTPUT_FOLDER + "final_audio.mp3", format="mp3")
