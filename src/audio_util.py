@@ -2,6 +2,7 @@ import wave
 import contextlib
 from pydub import AudioSegment
 import os, shutil
+import json
 
 def clear_folder(path_to_folder):
     """
@@ -62,6 +63,21 @@ def get_silence(duration):
 def determine_pitch(fname):
     pass
     # TODO
+
+def interpret_polly_output_file(fname):
+    """
+    If the file is a json file it means it represents a gap in singing/rapping.
+    Thus, returns an pydub interpreted mp3 silent mp3.
+
+    Otherwise the file is an mp3 and is returned as pydub interpretted mp3.
+    """
+    if fname.endswith(".json"):
+        data = json.load(open(fname, "r", encoding="utf-8"))
+        return get_silence(data["length"])
+    elif fname.endswith(".mp3"):
+        return AudioSegment.from_mp3(fname)
+    else:
+        raise Exception('Unknown file in the polly output folder: ' + fname)
 
 if __name__ == "__main__":
     split_mp3("../songs/drake-toosie_slide.mp3", "../source-separation-input/")
