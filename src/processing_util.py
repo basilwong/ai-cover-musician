@@ -1,21 +1,3 @@
-import json
-import pathlib
-
-def load_json(file):
-    """Load in JSON file and return as dict"""
-
-    json_filepath = pathlib.Path(file)
-    assert json_filepath.is_file(), "JSON file does not exist"
-
-    data = json.load(open(json_filepath.absolute(), "r", encoding="utf-8"))
-    assert "jobName" in data
-    assert "results" in data
-    assert "status" in data
-
-    assert data["status"] == "COMPLETED", "JSON file not shown as completed."
-
-    return data
-
 class TranscriptionItem:
 
     def __init__(self, item_dict):
