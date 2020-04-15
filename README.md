@@ -1,7 +1,9 @@
 # ai-cover-musician
 
 Note if you just wanna check out the output check out:
+
 Sound Cloud: https://soundcloud.com/ai-music-covers
+
 YouTube: https://www.youtube.com/channel/UC1L1IyK0OJHqMtY6ttXtvCw?view_as=subscriber
 
 1. Fork the repository and clone it into AWS Sagemaker as a New Notebook Instance.
