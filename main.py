@@ -37,3 +37,10 @@ vocal_mp3.export(FINAL_OUTPUT_FOLDER + "vocals.mp3", format="mp3")
 final_audio = background_mp3.overlay(vocal_mp3)
 
 final_audio.export(FINAL_OUTPUT_FOLDER + "final_audio.mp3", format="mp3")
+    
+#     # Create pause if there is a larger than 1 second gap between words.
+#     if expected_start_time + add_pause_for_gaps_greater_than < transcribe_object.start_time:
+#         silence_dict["length"] = transcribe_object.start_time - expected_start_time
+#         with open(polly_output_folder + str(index).zfill(5) + ".json", 'w') as outfile:
+#             json.dump(silence_dict, outfile)
+#         expected_start_time = transcribe_object.start_time

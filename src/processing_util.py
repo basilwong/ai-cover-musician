@@ -1,6 +1,7 @@
 class TranscriptionItem:
 
-    def __init__(self, item_dict, offset=0):
+    def __init__(self, item_dict, index, offset=0):
+        self.index = str(index).zfill(5)
         self.type = item_dict["type"]
         alternatives = item_dict["alternatives"][0]
         self.confidence = float(alternatives["confidence"])
@@ -14,3 +15,11 @@ class TranscriptionItem:
 
     def duration(self):
         return self.end_time - self.start_time
+    
+    def to_dict(self):
+        ret = dict()
+        ret["index"] = self.index
+        ret["content"] = self.content
+        ret["start_time"] = self.start_time
+        ret["end_time"] = self.end_time
+        return ret
