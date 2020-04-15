@@ -128,7 +128,8 @@ def shift_audio_pitch(audio_segment, n, temp_folder):
     temp_path = temp_folder + "file.wav"
     audio_segment.export(temp_path, format="wav")
     sr, audio = wavfile.read(temp_path)
-    audio_shifted = speedx(audio, n) # not shifted
+    factor = 2**(1.0 * n / 12.0)
+    audio_shifted = speedx(audio, factor) # not shifted
     print("\n\n")
     print(audio_shifted)
     print("\n\n")
