@@ -40,7 +40,7 @@ song_transcription = json.load(open(SONG_TRANSCRIPTION_PATH, "r", encoding="utf-
 vocal_mp3 = audio_util.get_silence(1)
 expected_start_time = 0
 
-for transcription_item, mp3_file in tqdm(zip(song_transcription, polly_output)):
+for transcription_item, mp3_file in zip(song_transcription, polly_output):
     if expected_start_time < transcription_item["start_time"]:
         print("Silence Added: " + str(transcription_item["start_time"] - expected_start_time))
         vocal_mp3 += audio_util.get_silence(transcription_item["start_time"] - expected_start_time)
@@ -48,8 +48,13 @@ for transcription_item, mp3_file in tqdm(zip(song_transcription, polly_output)):
 
     assert(mp3_file.startswith(transcription_item["index"]))
     audio_clip = audio_util.interpret_polly_output_file(POLLY_OUTPUT_FOLDER + mp3_file)
-    vocal_mp3 += audio_clip
-    expected_start_time += len(audio_clip)
+    corrected_audio_clip = audio_util.pitch_correction(audio_clip, transcription_item["start_time"], transcription_item["end_time"], "temp/")
+    if corrected_audio_clip:
+        vocal_mp3 += corrected_audio_clip    
+        expected_start_time += len(corrected_audio_clip)
+    else:
+        vocal_mp3 += audio_clip
+        expected_start_time += len(audio_clip)
 
 vocal_mp3.export(FINAL_OUTPUT_FOLDER + "vocals.mp3", format="mp3")
 
