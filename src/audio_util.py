@@ -82,4 +82,4 @@ def interpret_polly_output_file(fname):
         raise Exception('Unknown file in the polly output folder: ' + fname)
 
 if __name__ == "__main__":
-    split_mp3("../songs/drake-toosie_slide.mp3", "../source-separation-input/")
+    split_mp3("../songs/jli_song2.mp3", "../source-separation-input/")
