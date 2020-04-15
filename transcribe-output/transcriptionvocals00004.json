@@ -90,7 +90,7 @@
                 "end_time": "9.21",
                 "alternatives": [
                     {
-                        "confidence": "0.7583",
+                        "confidence": "0.7584",
                         "content": "with"
                     }
                 ],
@@ -112,7 +112,7 @@
                 "end_time": "14.98",
                 "alternatives": [
                     {
-                        "confidence": "0.9435",
+                        "confidence": "0.9441",
                         "content": "off"
                     }
                 ],

@@ -68,7 +68,7 @@
                 "end_time": "3.78",
                 "alternatives": [
                     {
-                        "confidence": "0.9723",
+                        "confidence": "0.9722",
                         "content": "dreamer"
                     }
                 ],
@@ -110,7 +110,7 @@
                 "end_time": "8.18",
                 "alternatives": [
                     {
-                        "confidence": "0.4829",
+                        "confidence": "0.4831",
                         "content": "not"
                     }
                 ],
@@ -121,7 +121,7 @@
                 "end_time": "8.22",
                 "alternatives": [
                     {
-                        "confidence": "0.3073",
+                        "confidence": "0.3074",
                         "content": "a"
                     }
                 ],
@@ -185,7 +185,7 @@
                 "end_time": "15.4",
                 "alternatives": [
                     {
-                        "confidence": "0.7114",
+                        "confidence": "0.7115",
                         "content": "someday"
                     }
                 ],
