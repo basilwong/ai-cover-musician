@@ -48,9 +48,13 @@ for transcription_item, mp3_file in zip(song_transcription, polly_output):
 
     assert(mp3_file.startswith(transcription_item["index"]))
     audio_clip = audio_util.interpret_polly_output_file(POLLY_OUTPUT_FOLDER + mp3_file)
-    corrected_audio_clip = audio_util.pitch_correction(audio_clip, transcription_item["start_time"], transcription_item["end_time"], "temp/")
+    if len(audio_clip) < 10:
+        continue
+    corrected_audio_clip = None
+    if transcription_item["end_time"] - transcription_item["start_time"] > 50:
+        corrected_audio_clip = audio_util.pitch_correction(audio_clip, transcription_item["start_time"], transcription_item["end_time"], "temp/")
     if corrected_audio_clip:
-        vocal_mp3 += corrected_audio_clip    
+        vocal_mp3 += corrected_audio_clip
         expected_start_time += len(corrected_audio_clip)
     else:
         vocal_mp3 += audio_clip
