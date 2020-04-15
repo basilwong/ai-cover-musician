@@ -163,7 +163,7 @@
                 "end_time": "28.11",
                 "alternatives": [
                     {
-                        "confidence": "0.9379",
+                        "confidence": "0.9378",
                         "content": "me"
                     }
                 ],
@@ -174,7 +174,7 @@
                 "end_time": "28.29",
                 "alternatives": [
                     {
-                        "confidence": "0.6178",
+                        "confidence": "0.6175",
                         "content": "is"
                     }
                 ],
@@ -185,7 +185,7 @@
                 "end_time": "29.75",
                 "alternatives": [
                     {
-                        "confidence": "0.9144",
+                        "confidence": "0.9143",
                         "content": "you"
                     }
                 ],

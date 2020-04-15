@@ -68,7 +68,7 @@
                 "end_time": "3.78",
                 "alternatives": [
                     {
-                        "confidence": "0.9722",
+                        "confidence": "0.9724",
                         "content": "dreamer"
                     }
                 ],
@@ -110,7 +110,7 @@
                 "end_time": "8.18",
                 "alternatives": [
                     {
-                        "confidence": "0.4831",
+                        "confidence": "0.4829",
                         "content": "not"
                     }
                 ],
@@ -121,7 +121,7 @@
                 "end_time": "8.22",
                 "alternatives": [
                     {
-                        "confidence": "0.3074",
+                        "confidence": "0.3072",
                         "content": "a"
                     }
                 ],
@@ -205,7 +205,7 @@
                 "end_time": "16.25",
                 "alternatives": [
                     {
-                        "confidence": "0.7956",
+                        "confidence": "0.7954",
                         "content": "John"
                     }
                 ],
