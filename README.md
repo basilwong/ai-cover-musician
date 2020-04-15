@@ -6,7 +6,7 @@ Sound Cloud: https://soundcloud.com/ai-music-covers
 
 YouTube: https://www.youtube.com/channel/UC1L1IyK0OJHqMtY6ttXtvCw?view_as=subscriber
 
-1. Fork the repository and clone it into AWS Sagemaker as a New Notebook Instance.
+1. Fork the repository and clone it into AWS Sagemaker as a New Notebook Instance. Note, since you will be committing to the forked repository, make sure to create a git repository with specified credentials. 
 2. Go through main.ipynb file in the repository. Execute all the code blocks. 
 3. The created files now need to be committed to the forked repository. 
 4. The forked repository should then be cloned onto an Ubuntu machine. That way it is easy to satisfy the ffmpeg dependency with [sudo apt-get install ffmpeg]. 
