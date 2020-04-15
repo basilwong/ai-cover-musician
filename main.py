@@ -23,6 +23,7 @@ POLLY_OUTPUT_FOLDER = "polly-output/"
 BACKGROUND_FOLDER = "source-separation-output/background/"
 FINAL_OUTPUT_FOLDER = "final-output/"
 SONG_TRANSCRIPTION_PATH = "song-transcription/transcribed_song.json"
+BATCH_LENGTH = 30000 # m
 
 # Generate Background
 background_mp3_files = [BACKGROUND_FOLDER + s for s in sorted(os.listdir(BACKGROUND_FOLDER))]
@@ -41,12 +42,14 @@ expected_start_time = 0
 
 for transcription_item, mp3_file in tqdm(zip(song_transcription, polly_output)):
     if expected_start_time < transcription_item["start_time"]:
+        print("Silence Added: " + str(transcription_item["start_time"] - expected_start_time))
         vocal_mp3 += audio_util.get_silence(transcription_item["start_time"] - expected_start_time)
         expected_start_time = transcription_item["start_time"]
 
     assert(mp3_file.startswith(transcription_item["index"]))
-    vocal_mp3 += audio_util.interpret_polly_output_file(POLLY_OUTPUT_FOLDER + mp3_file)
-    expected_start_time = transcription_item["end_time"]
+    audio_clip = audio_util.interpret_polly_output_file(POLLY_OUTPUT_FOLDER + mp3_file)
+    vocal_mp3 += audio_clip
+    expected_start_time += len(audio_clip)
 
 vocal_mp3.export(FINAL_OUTPUT_FOLDER + "vocals.mp3", format="mp3")
 
