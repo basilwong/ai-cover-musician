@@ -1,3 +1,4 @@
+import processing_util
 from pydub import AudioSegment
 import os, shutil
 import json
@@ -26,7 +27,7 @@ def split_mp3(fname, output_path):
     total_duration = 0
     num_files = 1
     # Clear the output folder.
-    clear_folder(output_path)
+    processing_util.clear_folder(output_path)
     while total_duration < len(sound):
         if total_duration + THIRTY_SEC > len(sound):
             new_file = sound[total_duration:]
@@ -142,5 +143,5 @@ def pitch_correction(audio_segment, start_time, end_time, temp_folder):
     return shift_audio_pitch(audio_segment, n, temp_folder)
 
 if __name__ == "__main__":
-    split_mp3("../songs/dts_song1.mp3", "../source-separation-input/toosie_slide-drake/")
+    split_mp3("../archive/songs/bmjtwya_song3.mp3", "../source-separation-input/just_the_way_you_are-bruno_mars/")
     # print(determine_pitch(interpret_polly_output_file("test.mp3"), "../temp/"))
