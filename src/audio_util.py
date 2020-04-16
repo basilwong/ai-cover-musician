@@ -47,6 +47,8 @@ def get_silence(duration):
     return sound[:duration]
 
 def determine_pitch(audio_segment, temp_folder):
+    if len(audio_segment) < 10:
+        return None
     temp_path = temp_folder + "file.wav"
     audio_segment.export(temp_path, format="wav")
     sr, audio = wavfile.read(temp_path)
@@ -114,10 +116,8 @@ def shift_audio_pitch(audio_segment, n, temp_folder):
     audio_segment.export(temp_path, format="wav")
     sr, audio = wavfile.read(temp_path)
     factor = 2**(1.0 * n / 12.0)
+    # TODO: make remove the truncation
     audio_shifted = speedx(audio, factor) # not shifted
-    print("\n\n")
-    print(audio_shifted)
-    print("\n\n")
     wavfile.write(temp_path, sr, audio_shifted)
     if audio_shifted.size == 0:
         return None
@@ -136,6 +136,8 @@ def get_original_sample(start_time, end_time):
 def pitch_correction(audio_segment, start_time, end_time, temp_folder):
     pitch1 = determine_pitch(audio_segment, temp_folder)
     pitch2 = determine_pitch(get_original_sample(start_time, end_time), temp_folder)
+    if pitch1 is None or pitch2 is None:
+        return None
     n = pitch2 - pitch1
     return shift_audio_pitch(audio_segment, n, temp_folder)
 
