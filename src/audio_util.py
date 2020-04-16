@@ -6,6 +6,7 @@ from scipy.io import wavfile
 import crepe
 import numpy as np
 from math import log2, pow
+import sys
 
 A4 = 440
 C0 = A4*pow(2, -4.75)
@@ -53,7 +54,9 @@ def determine_pitch(audio_segment, temp_folder):
     temp_path = temp_folder + "file.wav"
     audio_segment.export(temp_path, format="wav")
     sr, audio = wavfile.read(temp_path)
+    sys.stdout = open(os.devnull, 'w')
     time, frequency, confidence, activation = crepe.predict(audio, sr, viterbi=True)
+    sys.stdout = sys.__stdout__
     return freq_to_pitch(np.average(frequency))
 
 def interpret_polly_output_file(fname):
