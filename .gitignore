@@ -62,3 +62,7 @@ target/
 
 # Notebook Checkpoints
 .ipynb_checkpoints/
+
+ffmpeg-release-amd64-static.tar.xz
+
+ffmpeg-4.2.2-amd64-static/
