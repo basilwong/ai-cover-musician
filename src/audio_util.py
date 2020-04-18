@@ -13,12 +13,18 @@ C0 = A4*pow(2, -4.75)
 name = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
     
 def note_getter(freq):
+    """
+    Returns the musical note corresponding to the input frequency.
+    """
     h = round(12*log2(freq/C0))
     octave = h // 12
     n = h % 12
     return name[n] + str(octave)
 
 def freq_to_pitch(freq):
+    """
+    Returns the semitone value of the input frequency.
+    """
     h = round(12*log2(freq/C0))
     octave = h // 12
     n = h % 12
@@ -56,16 +62,17 @@ def get_silence(duration):
     return sound[:duration]
 
 def determine_pitch(audio_segment, temp_folder):
+    """
+    Returns the most prevalent pitch in the input AudioSegment. 
+    """
     if len(audio_segment) < 10:
         return None
     temp_path = temp_folder + "file.wav"
     audio_segment.export(temp_path, format="wav")
     sr, audio = wavfile.read(temp_path)
-#     sys.stdout = open(os.devnull, 'w')
     time, frequency, confidence, activation = crepe.predict(audio, sr, viterbi=True)
-#     sys.stdout = sys.__stdout__
-    print([note_getter(x) for x in frequency])
-    return freq_to_pitch(np.average(frequency))
+    semitones = [freq_to_pitch(x) for x in frequency]
+    return max(set(semitones), key = semitones.count)  
 
 def interpret_polly_output_file(fname):
     """
@@ -85,7 +92,9 @@ def interpret_polly_output_file(fname):
         raise Exception('Unknown file in the polly output folder: ' + fname)
 
 def speedx(sound_array, factor):
-    """ Multiplies the sound's speed by some `factor` """
+    """ 
+    Multiplies the sound's speed by factor.
+    """
     indices = np.round( np.arange(0, len(sound_array), factor) )
     indices = indices[indices < len(sound_array)].astype(int)
     return sound_array[ indices.astype(int) ]
