@@ -10,6 +10,13 @@ import sys
 
 A4 = 440
 C0 = A4*pow(2, -4.75)
+name = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
+    
+def note_getter(freq):
+    h = round(12*log2(freq/C0))
+    octave = h // 12
+    n = h % 12
+    return name[n] + str(octave)
 
 def freq_to_pitch(freq):
     h = round(12*log2(freq/C0))
@@ -54,9 +61,10 @@ def determine_pitch(audio_segment, temp_folder):
     temp_path = temp_folder + "file.wav"
     audio_segment.export(temp_path, format="wav")
     sr, audio = wavfile.read(temp_path)
-    sys.stdout = open(os.devnull, 'w')
+#     sys.stdout = open(os.devnull, 'w')
     time, frequency, confidence, activation = crepe.predict(audio, sr, viterbi=True)
-    sys.stdout = sys.__stdout__
+#     sys.stdout = sys.__stdout__
+    print([note_getter(x) for x in frequency])
     return freq_to_pitch(np.average(frequency))
 
 def interpret_polly_output_file(fname):
@@ -135,7 +143,9 @@ def get_original_sample(start_time, end_time):
         if batch in file:
             fname = file
             break
-    return AudioSegment.from_wav(VOCALS_FOLDER + fname)[start_time%BATCH_SIZE:end_time%BATCH_SIZE]
+    start = start_time - ((start_time // BATCH_SIZE) * BATCH_SIZE)
+    end = end_time - ((end_time // BATCH_SIZE) * BATCH_SIZE)
+    return AudioSegment.from_wav(VOCALS_FOLDER + fname)[start:end]
 
 def pitch_correction(audio_segment, start_time, end_time, temp_folder):
     pitch1 = determine_pitch(audio_segment, temp_folder)
