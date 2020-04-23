@@ -25,6 +25,8 @@ def freq_to_pitch(freq):
     """
     Returns the semitone value of the input frequency.
     """
+    if freq == 0:
+        return 0
     h = round(12*log2(freq/C0))
     octave = h // 12
     n = h % 12
@@ -146,7 +148,7 @@ def shift_audio_pitch(audio_segment, n, temp_folder):
 
 def get_original_sample(start_time, end_time):
     BATCH_SIZE = 30000
-    VOCALS_FOLDER = "source-separation-output/vocals/"
+    VOCALS_FOLDER = "isolated-vocals/"
     batch = str(int(start_time // BATCH_SIZE)).zfill(5)
     for file in os.listdir(VOCALS_FOLDER):
         if batch in file:
@@ -156,13 +158,17 @@ def get_original_sample(start_time, end_time):
     end = end_time - ((end_time // BATCH_SIZE) * BATCH_SIZE)
     return AudioSegment.from_wav(VOCALS_FOLDER + fname)[start:end]
 
-def pitch_correction(audio_segment, start_time, end_time, temp_folder):
+def pitch_difference(audio_segment, start_time, end_time, temp_folder):
     pitch1 = determine_pitch(audio_segment, temp_folder)
     pitch2 = determine_pitch(get_original_sample(start_time, end_time), temp_folder)
     if pitch1 is None or pitch2 is None:
         return None
-    n = pitch2 - pitch1
+    return pitch2 - pitch1
+
+def pitch_correction(audio_segment, start_time, end_time, temp_folder):
+    n = pitch_difference(audio_segment, start_time, end_time, temp_folder)
     return shift_audio_pitch(audio_segment, n, temp_folder)
+
 
 if __name__ == "__main__":
     split_mp3("../archive/songs/bmjtwya_song3.mp3", "../source-separation-input/just_the_way_you_are-bruno_mars/")

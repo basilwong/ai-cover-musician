@@ -2,2227 +2,3145 @@
     {
         "index": "00000",
         "content": "Oh",
-        "start_time": 850.0,
-        "end_time": 1340.0
+        "start_time": 40.0,
+        "end_time": 470.0
+    },
+    {
+        "index": "00001",
+        "content": "black",
+        "start_time": 10110.0,
+        "end_time": 10570.0
     },
     {
         "index": "00002",
-        "content": "that",
-        "start_time": 1140.0,
-        "end_time": 1550.0
+        "content": "leather",
+        "start_time": 10580.0,
+        "end_time": 10950.0
     },
     {
         "index": "00003",
-        "content": "says",
-        "start_time": 1350.0,
-        "end_time": 1940.0
+        "content": "blood",
+        "start_time": 10960.0,
+        "end_time": 11360.0
     },
     {
         "index": "00004",
-        "content": "that",
-        "start_time": 1940.0,
-        "end_time": 2490.0
+        "content": "No",
+        "start_time": 11360.0,
+        "end_time": 11610.0
     },
     {
         "index": "00005",
-        "content": "you're",
-        "start_time": 2290.0,
-        "end_time": 2900.0
+        "content": "seafood",
+        "start_time": 11610.0,
+        "end_time": 12390.0
+    },
+    {
+        "index": "00006",
+        "content": "buckles",
+        "start_time": 13090.0,
+        "end_time": 13650.0
     },
     {
         "index": "00007",
-        "content": "you",
-        "start_time": 2910.0,
-        "end_time": 3200.0
+        "content": "on",
+        "start_time": 13650.0,
+        "end_time": 13920.0
     },
     {
         "index": "00008",
-        "content": "know",
-        "start_time": 3000.0,
-        "end_time": 3410.0
+        "content": "a",
+        "start_time": 13820.0,
+        "end_time": 14030.0
+    },
+    {
+        "index": "00009",
+        "content": "jacket",
+        "start_time": 13930.0,
+        "end_time": 14370.0
     },
     {
         "index": "00010",
-        "content": "and",
-        "start_time": 5540.0,
-        "end_time": 6000.0
+        "content": "It's",
+        "start_time": 14370.0,
+        "end_time": 14650.0
     },
     {
         "index": "00011",
-        "content": "other",
-        "start_time": 5800.0,
-        "end_time": 6280.0
+        "content": "a",
+        "start_time": 14550.0,
+        "end_time": 14770.0
     },
     {
         "index": "00012",
-        "content": "cars",
-        "start_time": 6080.0,
-        "end_time": 6680.0
+        "content": "leak",
+        "start_time": 14670.0,
+        "end_time": 14960.0
     },
     {
         "index": "00013",
-        "content": "You",
-        "start_time": 6680.0,
-        "end_time": 7150.0
+        "content": "Shit",
+        "start_time": 14960.0,
+        "end_time": 15380.0
     },
     {
         "index": "00014",
-        "content": "that",
-        "start_time": 6960.0,
-        "end_time": 7500.0
+        "content": "Nike",
+        "start_time": 15990.0,
+        "end_time": 16450.0
     },
     {
         "index": "00015",
-        "content": "in",
-        "start_time": 7300.0,
-        "end_time": 7750.0
+        "content": "cross",
+        "start_time": 16450.0,
+        "end_time": 16870.0
     },
     {
         "index": "00016",
-        "content": "my",
-        "start_time": 7960.0,
-        "end_time": 8610.0
+        "content": "body",
+        "start_time": 16870.0,
+        "end_time": 17230.0
     },
     {
         "index": "00017",
-        "content": "name",
-        "start_time": 8410.0,
-        "end_time": 9230.0
+        "content": "got",
+        "start_time": 17240.0,
+        "end_time": 17470.0
     },
     {
         "index": "00018",
-        "content": "You",
-        "start_time": 10240.0,
-        "end_time": 10680.0
+        "content": "a",
+        "start_time": 17470.0,
+        "end_time": 17700.0
     },
     {
         "index": "00019",
-        "content": "think",
-        "start_time": 10480.0,
-        "end_time": 10930.0
+        "content": "piece",
+        "start_time": 17610.0,
+        "end_time": 18060.0
     },
     {
         "index": "00020",
-        "content": "you",
-        "start_time": 10730.0,
-        "end_time": 11160.0
+        "content": "and",
+        "start_time": 18060.0,
+        "end_time": 18380.0
     },
     {
         "index": "00021",
-        "content": "broke",
-        "start_time": 10960.0,
-        "end_time": 11550.0
+        "content": "got",
+        "start_time": 18390.0,
+        "end_time": 18940.0
     },
     {
         "index": "00022",
-        "content": "my",
-        "start_time": 11360.0,
-        "end_time": 11840.0
+        "content": "a",
+        "start_time": 18940.0,
+        "end_time": 19160.0
     },
     {
         "index": "00023",
-        "content": "heart",
-        "start_time": 11650.0,
-        "end_time": 12310.0
+        "content": "dance",
+        "start_time": 19070.0,
+        "end_time": 19480.0
+    },
+    {
+        "index": "00024",
+        "content": "But",
+        "start_time": 19480.0,
+        "end_time": 19680.0
     },
     {
         "index": "00025",
-        "content": "You",
-        "start_time": 15140.0,
-        "end_time": 15530.0
+        "content": "it's",
+        "start_time": 19680.0,
+        "end_time": 19880.0
     },
     {
         "index": "00026",
-        "content": "think",
-        "start_time": 15330.0,
-        "end_time": 15780.0
+        "content": "really",
+        "start_time": 19880.0,
+        "end_time": 20220.0
     },
     {
         "index": "00027",
-        "content": "I'm",
-        "start_time": 15580.0,
-        "end_time": 15900.0
+        "content": "also",
+        "start_time": 20220.0,
+        "end_time": 20470.0
     },
     {
         "index": "00028",
-        "content": "crawling",
-        "start_time": 15700.0,
-        "end_time": 16290.0
+        "content": "street",
+        "start_time": 20470.0,
+        "end_time": 20830.0
+    },
+    {
+        "index": "00029",
+        "content": "shoot",
+        "start_time": 20830.0,
+        "end_time": 21440.0
     },
     {
         "index": "00030",
-        "content": "You",
-        "start_time": 16290.0,
-        "end_time": 16700.0
+        "content": "I'm",
+        "start_time": 21660.0,
+        "end_time": 21940.0
     },
     {
         "index": "00031",
-        "content": "know",
-        "start_time": 16500.0,
-        "end_time": 17010.0
+        "content": "gonna",
+        "start_time": 21840.0,
+        "end_time": 22060.0
     },
     {
         "index": "00032",
-        "content": "my",
-        "start_time": 16810.0,
-        "end_time": 17430.0
+        "content": "show",
+        "start_time": 21960.0,
+        "end_time": 22230.0
     },
     {
         "index": "00033",
-        "content": "name",
-        "start_time": 18330.0,
-        "end_time": 18960.0
+        "content": "you",
+        "start_time": 22230.0,
+        "end_time": 22460.0
+    },
+    {
+        "index": "00034",
+        "content": "how",
+        "start_time": 22470.0,
+        "end_time": 22660.0
     },
     {
         "index": "00035",
-        "content": "And",
-        "start_time": 19740.0,
-        "end_time": 20280.0
+        "content": "to",
+        "start_time": 22560.0,
+        "end_time": 22770.0
     },
     {
         "index": "00036",
-        "content": "I",
-        "start_time": 20080.0,
-        "end_time": 20320.0
+        "content": "get",
+        "start_time": 22690.0,
+        "end_time": 23030.0
     },
     {
         "index": "00037",
-        "content": "didn't",
-        "start_time": 20120.0,
-        "end_time": 20660.0
+        "content": "it",
+        "start_time": 23030.0,
+        "end_time": 23320.0
     },
     {
         "index": "00038",
-        "content": "want",
-        "start_time": 20460.0,
-        "end_time": 20840.0
+        "content": "go",
+        "start_time": 23320.0,
+        "end_time": 23530.0
     },
     {
         "index": "00039",
-        "content": "to",
-        "start_time": 20640.0,
-        "end_time": 20900.0
+        "content": "right",
+        "start_time": 23530.0,
+        "end_time": 23820.0
     },
     {
         "index": "00040",
-        "content": "write",
-        "start_time": 20710.0,
-        "end_time": 21290.0
+        "content": "for",
+        "start_time": 23830.0,
+        "end_time": 24200.0
     },
     {
         "index": "00041",
-        "content": "his",
-        "start_time": 21090.0,
-        "end_time": 21480.0
+        "content": "that",
+        "start_time": 24980.0,
+        "end_time": 25380.0
     },
     {
         "index": "00042",
-        "content": "long",
-        "start_time": 21280.0,
-        "end_time": 21870.0
+        "content": "That's",
+        "start_time": 26440.0,
+        "end_time": 26770.0
     },
     {
         "index": "00043",
-        "content": "didn't",
-        "start_time": 22450.0,
-        "end_time": 23080.0
+        "content": "right",
+        "start_time": 27630.0,
+        "end_time": 28320.0
     },
     {
         "index": "00044",
-        "content": "want",
-        "start_time": 22880.0,
-        "end_time": 23430.0
+        "content": "basically",
+        "start_time": 29310.0,
+        "end_time": 29990.0
     },
     {
         "index": "00045",
-        "content": "anyone",
-        "start_time": 23230.0,
-        "end_time": 23740.0
+        "content": "I'm",
+        "start_time": 30000.0,
+        "end_time": 30160.0
     },
     {
         "index": "00046",
-        "content": "thinking",
-        "start_time": 23740.0,
-        "end_time": 24480.0
+        "content": "staying",
+        "start_time": 30060.0,
+        "end_time": 30420.0
     },
     {
         "index": "00047",
-        "content": "I",
-        "start_time": 24480.0,
-        "end_time": 24740.0
+        "content": "in",
+        "start_time": 30420.0,
+        "end_time": 30650.0
     },
     {
         "index": "00048",
-        "content": "still",
-        "start_time": 24540.0,
-        "end_time": 25050.0
+        "content": "Either",
+        "start_time": 30550.0,
+        "end_time": 30800.0
     },
     {
         "index": "00049",
-        "content": "kava",
-        "start_time": 24850.0,
-        "end_time": 25460.0
+        "content": "way",
+        "start_time": 30800.0,
+        "end_time": 31060.0
     },
     {
         "index": "00050",
-        "content": "don't",
-        "start_time": 25470.0,
-        "end_time": 26170.0
+        "content": "we're",
+        "start_time": 31060.0,
+        "end_time": 31300.0
+    },
+    {
+        "index": "00051",
+        "content": "about",
+        "start_time": 31200.0,
+        "end_time": 31430.0
     },
     {
         "index": "00052",
-        "content": "But",
-        "start_time": 26170.0,
-        "end_time": 26690.0
+        "content": "to",
+        "start_time": 31430.0,
+        "end_time": 31610.0
     },
     {
         "index": "00053",
-        "content": "you",
-        "start_time": 26700.0,
-        "end_time": 27130.0
+        "content": "start",
+        "start_time": 31510.0,
+        "end_time": 31820.0
     },
     {
         "index": "00054",
-        "content": "still",
-        "start_time": 26930.0,
-        "end_time": 27590.0
+        "content": "I",
+        "start_time": 31820.0,
+        "end_time": 32210.0
     },
     {
         "index": "00055",
-        "content": "have",
-        "start_time": 27400.0,
-        "end_time": 27830.0
+        "content": "can",
+        "start_time": 32220.0,
+        "end_time": 32560.0
     },
     {
         "index": "00056",
-        "content": "my",
-        "start_time": 27640.0,
-        "end_time": 27980.0
+        "content": "let",
+        "start_time": 32560.0,
+        "end_time": 32820.0
     },
     {
         "index": "00057",
-        "content": "phone",
-        "start_time": 27780.0,
-        "end_time": 28730.0
+        "content": "this",
+        "start_time": 32720.0,
+        "end_time": 33000.0
+    },
+    {
+        "index": "00058",
+        "content": "one",
+        "start_time": 32900.0,
+        "end_time": 33110.0
     },
     {
         "index": "00059",
-        "content": "you'll",
-        "start_time": 30000.0,
-        "end_time": 30410.0
+        "content": "slide",
+        "start_time": 33010.0,
+        "end_time": 33240.0
     },
     {
         "index": "00060",
-        "content": "be",
-        "start_time": 30210.0,
-        "end_time": 30530.0
+        "content": "Don't",
+        "start_time": 34520.0,
+        "end_time": 34780.0
     },
     {
         "index": "00061",
-        "content": "moving",
-        "start_time": 30330.0,
-        "end_time": 30950.0
+        "content": "you",
+        "start_time": 34780.0,
+        "end_time": 35000.0
     },
     {
         "index": "00062",
-        "content": "one",
-        "start_time": 30950.0,
-        "end_time": 31470.0
+        "content": "want",
+        "start_time": 34900.0,
+        "end_time": 35170.0
     },
     {
         "index": "00063",
-        "content": "e",
-        "start_time": 31510.0,
-        "end_time": 32030.0
+        "content": "to",
+        "start_time": 35170.0,
+        "end_time": 35330.0
     },
     {
         "index": "00064",
-        "content": "Don't",
-        "start_time": 32040.0,
-        "end_time": 32390.0
+        "content": "dance",
+        "start_time": 35240.0,
+        "end_time": 35700.0
     },
     {
         "index": "00065",
-        "content": "think",
-        "start_time": 32190.0,
-        "end_time": 32680.0
+        "content": "with",
+        "start_time": 35700.0,
+        "end_time": 35960.0
     },
     {
         "index": "00066",
-        "content": "you",
-        "start_time": 32480.0,
-        "end_time": 32800.0
+        "content": "me",
+        "start_time": 35860.0,
+        "end_time": 36170.0
     },
     {
         "index": "00067",
-        "content": "should",
-        "start_time": 32600.0,
-        "end_time": 33270.0
+        "content": "I",
+        "start_time": 37090.0,
+        "end_time": 37370.0
     },
     {
         "index": "00068",
-        "content": "be",
-        "start_time": 33070.0,
-        "end_time": 33420.0
+        "content": "could",
+        "start_time": 37280.0,
+        "end_time": 37480.0
     },
     {
         "index": "00069",
-        "content": "something",
-        "start_time": 33220.0,
-        "end_time": 34180.0
+        "content": "guess",
+        "start_time": 37490.0,
+        "end_time": 37740.0
     },
     {
         "index": "00070",
-        "content": "I",
-        "start_time": 34180.0,
-        "end_time": 34460.0
+        "content": "I'm",
+        "start_time": 37740.0,
+        "end_time": 37970.0
     },
     {
         "index": "00071",
-        "content": "don't",
-        "start_time": 34260.0,
-        "end_time": 34700.0
+        "content": "Michael",
+        "start_time": 37870.0,
+        "end_time": 38170.0
     },
     {
         "index": "00072",
-        "content": "wanna",
-        "start_time": 34500.0,
-        "end_time": 35100.0
+        "content": "Jack's",
+        "start_time": 38170.0,
+        "end_time": 38560.0
     },
     {
         "index": "00073",
-        "content": "go",
-        "start_time": 35150.0,
-        "end_time": 35720.0
+        "content": "son",
+        "start_time": 39180.0,
+        "end_time": 39680.0
     },
     {
         "index": "00074",
-        "content": "back",
-        "start_time": 35720.0,
-        "end_time": 36310.0
+        "content": "I",
+        "start_time": 40040.0,
+        "end_time": 40290.0
+    },
+    {
+        "index": "00075",
+        "content": "could",
+        "start_time": 40190.0,
+        "end_time": 40480.0
     },
     {
         "index": "00076",
-        "content": "Maybe",
-        "start_time": 36320.0,
-        "end_time": 36920.0
+        "content": "get",
+        "start_time": 40380.0,
+        "end_time": 40840.0
     },
     {
         "index": "00077",
-        "content": "Yushin",
-        "start_time": 36930.0,
-        "end_time": 37540.0
+        "content": "up",
+        "start_time": 40840.0,
+        "end_time": 41210.0
     },
     {
         "index": "00078",
-        "content": "low",
-        "start_time": 37540.0,
-        "end_time": 38150.0
+        "content": "Hey",
+        "start_time": 41220.0,
+        "end_time": 41550.0
     },
     {
         "index": "00079",
-        "content": "that",
-        "start_time": 38160.0,
-        "end_time": 38790.0
+        "content": "son",
+        "start_time": 42170.0,
+        "end_time": 42590.0
     },
     {
         "index": "00080",
-        "content": "my",
-        "start_time": 38960.0,
-        "end_time": 39380.0
+        "content": "It's",
+        "start_time": 42980.0,
+        "end_time": 43200.0
     },
     {
         "index": "00081",
-        "content": "mama",
-        "start_time": 39180.0,
-        "end_time": 39820.0
+        "content": "a",
+        "start_time": 43200.0,
+        "end_time": 43460.0
+    },
+    {
+        "index": "00082",
+        "content": "thriller",
+        "start_time": 43370.0,
+        "end_time": 43690.0
     },
     {
         "index": "00083",
-        "content": "don't",
-        "start_time": 39620.0,
-        "end_time": 40250.0
+        "content": "And",
+        "start_time": 43690.0,
+        "end_time": 43980.0
     },
     {
         "index": "00084",
-        "content": "I",
-        "start_time": 40050.0,
-        "end_time": 40600.0
+        "content": "track",
+        "start_time": 43990.0,
+        "end_time": 44460.0
+    },
+    {
+        "index": "00085",
+        "content": "Where",
+        "start_time": 44860.0,
+        "end_time": 45130.0
     },
     {
         "index": "00086",
-        "content": "You",
-        "start_time": 40410.0,
-        "end_time": 41090.0
+        "content": "we",
+        "start_time": 45030.0,
+        "end_time": 45230.0
     },
     {
         "index": "00087",
-        "content": "know",
-        "start_time": 40900.0,
-        "end_time": 41160.0
+        "content": "from",
+        "start_time": 45130.0,
+        "end_time": 45540.0
+    },
+    {
+        "index": "00088",
+        "content": "baby",
+        "start_time": 45930.0,
+        "end_time": 46300.0
     },
     {
         "index": "00089",
-        "content": "she",
-        "start_time": 40970.0,
-        "end_time": 41470.0
+        "content": "Don't",
+        "start_time": 46310.0,
+        "end_time": 46540.0
     },
     {
         "index": "00090",
-        "content": "likes",
-        "start_time": 41470.0,
-        "end_time": 42030.0
+        "content": "you",
+        "start_time": 46540.0,
+        "end_time": 46750.0
     },
     {
         "index": "00091",
-        "content": "everyone",
-        "start_time": 41830.0,
-        "end_time": 42750.0
+        "content": "wanna",
+        "start_time": 46650.0,
+        "end_time": 46990.0
+    },
+    {
+        "index": "00092",
+        "content": "dance",
+        "start_time": 47000.0,
+        "end_time": 47480.0
     },
     {
         "index": "00093",
-        "content": "and",
-        "start_time": 43740.0,
-        "end_time": 44330.0
+        "content": "with",
+        "start_time": 47480.0,
+        "end_time": 47730.0
     },
     {
         "index": "00094",
-        "content": "I",
-        "start_time": 44130.0,
-        "end_time": 44360.0
+        "content": "me",
+        "start_time": 47630.0,
+        "end_time": 48170.0
     },
     {
         "index": "00095",
-        "content": "never",
-        "start_time": 44170.0,
-        "end_time": 44690.0
+        "content": "No",
+        "start_time": 48170.0,
+        "end_time": 48730.0
     },
     {
         "index": "00096",
-        "content": "like",
-        "start_time": 44700.0,
-        "end_time": 45260.0
+        "content": "I",
+        "start_time": 48940.0,
+        "end_time": 49190.0
     },
     {
         "index": "00097",
-        "content": "to",
-        "start_time": 45270.0,
-        "end_time": 45960.0
-    },
-    {
-        "index": "00098",
-        "content": "admit",
-        "start_time": 45770.0,
-        "end_time": 46440.0
-    },
-    {
-        "index": "00099",
-        "content": "that",
-        "start_time": 46240.0,
-        "end_time": 46680.0
-    },
-    {
-        "index": "00100",
-        "content": "I",
-        "start_time": 46480.0,
-        "end_time": 46780.0
-    },
-    {
-        "index": "00101",
-        "content": "was",
-        "start_time": 46580.0,
-        "end_time": 47060.0
-    },
-    {
-        "index": "00102",
-        "content": "wrong",
-        "start_time": 46860.0,
-        "end_time": 47550.0
-    },
-    {
-        "index": "00103",
-        "content": "and",
-        "start_time": 48340.0,
-        "end_time": 48840.0
-    },
-    {
-        "index": "00104",
-        "content": "I've",
-        "start_time": 48840.0,
-        "end_time": 49150.0
-    },
-    {
-        "index": "00105",
-        "content": "been",
-        "start_time": 48950.0,
+        "content": "could",
+        "start_time": 49090.0,
         "end_time": 49310.0
     },
     {
+        "index": "00098",
+        "content": "guess",
+        "start_time": 49310.0,
+        "end_time": 49540.0
+    },
+    {
+        "index": "00099",
+        "content": "I'm",
+        "start_time": 49540.0,
+        "end_time": 49780.0
+    },
+    {
+        "index": "00100",
+        "content": "Michael",
+        "start_time": 49680.0,
+        "end_time": 49960.0
+    },
+    {
+        "index": "00101",
+        "content": "J",
+        "start_time": 49960.0,
+        "end_time": 50410.0
+    },
+    {
+        "index": "00102",
+        "content": "Son",
+        "start_time": 50880.0,
+        "end_time": 51590.0
+    },
+    {
+        "index": "00103",
+        "content": "I",
+        "start_time": 51820.0,
+        "end_time": 52080.0
+    },
+    {
+        "index": "00104",
+        "content": "could",
+        "start_time": 51980.0,
+        "end_time": 52270.0
+    },
+    {
+        "index": "00105",
+        "content": "get",
+        "start_time": 52170.0,
+        "end_time": 52380.0
+    },
+    {
         "index": "00106",
-        "content": "so",
-        "start_time": 49110.0,
-        "end_time": 49640.0
+        "content": "you",
+        "start_time": 52380.0,
+        "end_time": 52570.0
     },
     {
         "index": "00107",
-        "content": "caught",
-        "start_time": 49440.0,
-        "end_time": 50100.0
+        "content": "satisfied",
+        "start_time": 52470.0,
+        "end_time": 53200.0
     },
     {
         "index": "00108",
-        "content": "him",
-        "start_time": 49900.0,
-        "end_time": 50360.0
+        "content": "And",
+        "start_time": 54740.0,
+        "end_time": 55020.0
     },
     {
         "index": "00109",
-        "content": "and",
-        "start_time": 50160.0,
-        "end_time": 50590.0
+        "content": "you",
+        "start_time": 55020.0,
+        "end_time": 55240.0
     },
     {
         "index": "00110",
-        "content": "much",
-        "start_time": 50390.0,
-        "end_time": 51030.0
+        "content": "know",
+        "start_time": 55140.0,
+        "end_time": 55350.0
     },
     {
         "index": "00111",
-        "content": "of",
-        "start_time": 50830.0,
-        "end_time": 51280.0
+        "content": "we",
+        "start_time": 55350.0,
+        "end_time": 55590.0
     },
     {
         "index": "00112",
-        "content": "did",
-        "start_time": 51310.0,
-        "end_time": 51900.0
+        "content": "are",
+        "start_time": 55590.0,
+        "end_time": 55810.0
     },
     {
         "index": "00113",
-        "content": "and",
-        "start_time": 51700.0,
-        "end_time": 52040.0
+        "content": "here",
+        "start_time": 55710.0,
+        "end_time": 56000.0
     },
     {
         "index": "00114",
-        "content": "see",
-        "start_time": 51840.0,
-        "end_time": 52460.0
+        "content": "every",
+        "start_time": 55910.0,
+        "end_time": 56190.0
     },
     {
         "index": "00115",
-        "content": "what's",
-        "start_time": 52260.0,
-        "end_time": 52700.0
+        "content": "day",
+        "start_time": 56200.0,
+        "end_time": 56580.0
     },
     {
         "index": "00116",
-        "content": "going",
-        "start_time": 52500.0,
-        "end_time": 53230.0
+        "content": "with",
+        "start_time": 56580.0,
+        "end_time": 56870.0
     },
     {
         "index": "00117",
-        "content": "on",
-        "start_time": 53230.0,
-        "end_time": 53830.0
+        "content": "it",
+        "start_time": 56870.0,
+        "end_time": 57160.0
+    },
+    {
+        "index": "00118",
+        "content": "I'm",
+        "start_time": 57060.0,
+        "end_time": 57240.0
     },
     {
         "index": "00119",
-        "content": "No",
-        "start_time": 53640.0,
-        "end_time": 54320.0
+        "content": "gonna",
+        "start_time": 57140.0,
+        "end_time": 57360.0
+    },
+    {
+        "index": "00120",
+        "content": "show",
+        "start_time": 57260.0,
+        "end_time": 57520.0
     },
     {
         "index": "00121",
-        "content": "no",
-        "start_time": 54300.0,
-        "end_time": 54970.0
+        "content": "you",
+        "start_time": 57520.0,
+        "end_time": 57810.0
     },
     {
         "index": "00122",
-        "content": "stable",
-        "start_time": 56430.0,
-        "end_time": 57270.0
+        "content": "how",
+        "start_time": 57710.0,
+        "end_time": 57960.0
+    },
+    {
+        "index": "00123",
+        "content": "to",
+        "start_time": 57860.0,
+        "end_time": 58080.0
     },
     {
         "index": "00124",
-        "content": "No",
-        "start_time": 57270.0,
-        "end_time": 57910.0
+        "content": "get",
+        "start_time": 57990.0,
+        "end_time": 58330.0
+    },
+    {
+        "index": "00125",
+        "content": "it",
+        "start_time": 58330.0,
+        "end_time": 58610.0
     },
     {
         "index": "00126",
-        "content": "because",
-        "start_time": 58150.0,
-        "end_time": 58760.0
+        "content": "go",
+        "start_time": 58610.0,
+        "end_time": 58820.0
     },
     {
         "index": "00127",
-        "content": "you",
-        "start_time": 58560.0,
-        "end_time": 58900.0
+        "content": "right",
+        "start_time": 58820.0,
+        "end_time": 59120.0
     },
     {
         "index": "00128",
-        "content": "feel",
-        "start_time": 58700.0,
-        "end_time": 59290.0
+        "content": "for",
+        "start_time": 59150.0,
+        "end_time": 59490.0
     },
     {
         "index": "00129",
-        "content": "like",
-        "start_time": 59100.0,
-        "end_time": 59650.0
+        "content": "uh",
+        "start_time": 59500.0,
+        "end_time": 59990.0
     },
     {
         "index": "00130",
-        "content": "the",
-        "start_time": 60000.0,
-        "end_time": 60450.0
+        "content": "that",
+        "start_time": 60280.0,
+        "end_time": 60590.0
     },
     {
         "index": "00131",
-        "content": "way",
-        "start_time": 60250.0,
-        "end_time": 60990.0
+        "content": "that",
+        "start_time": 61660.0,
+        "end_time": 62050.0
     },
     {
         "index": "00132",
-        "content": "you",
-        "start_time": 61110.0,
-        "end_time": 61640.0
+        "content": "foot",
+        "start_time": 62060.0,
+        "end_time": 62500.0
     },
     {
         "index": "00133",
-        "content": "looked",
-        "start_time": 61440.0,
-        "end_time": 62070.0
+        "content": "right",
+        "start_time": 63100.0,
+        "end_time": 63560.0
     },
     {
         "index": "00134",
-        "content": "at",
-        "start_time": 61870.0,
-        "end_time": 62470.0
+        "content": "foot",
+        "start_time": 63570.0,
+        "end_time": 63870.0
     },
     {
         "index": "00135",
-        "content": "us",
-        "start_time": 62480.0,
-        "end_time": 62960.0
+        "content": "Basically",
+        "start_time": 64550.0,
+        "end_time": 65250.0
+    },
+    {
+        "index": "00136",
+        "content": "I'm",
+        "start_time": 65250.0,
+        "end_time": 65440.0
     },
     {
         "index": "00137",
-        "content": "Oh",
-        "start_time": 63000.0,
-        "end_time": 63420.0
+        "content": "saying",
+        "start_time": 65340.0,
+        "end_time": 65840.0
+    },
+    {
+        "index": "00138",
+        "content": "Either",
+        "start_time": 65840.0,
+        "end_time": 66100.0
     },
     {
         "index": "00139",
-        "content": "baby",
-        "start_time": 63220.0,
-        "end_time": 63950.0
-    },
-    {
-        "index": "00141",
-        "content": "you",
-        "start_time": 63960.0,
-        "end_time": 64290.0
-    },
-    {
-        "index": "00142",
-        "content": "should",
-        "start_time": 64090.0,
-        "end_time": 64590.0
-    },
-    {
-        "index": "00143",
-        "content": "go",
-        "start_time": 64400.0,
-        "end_time": 64910.0
-    },
-    {
-        "index": "00144",
-        "content": "and",
-        "start_time": 64920.0,
-        "end_time": 65210.0
-    },
-    {
-        "index": "00145",
-        "content": "love",
-        "start_time": 65020.0,
-        "end_time": 65590.0
-    },
-    {
-        "index": "00146",
-        "content": "yourself",
-        "start_time": 65400.0,
+        "content": "way",
+        "start_time": 66100.0,
         "end_time": 66350.0
     },
     {
+        "index": "00140",
+        "content": "we",
+        "start_time": 66350.0,
+        "end_time": 66590.0
+    },
+    {
+        "index": "00141",
+        "content": "about",
+        "start_time": 66490.0,
+        "end_time": 66820.0
+    },
+    {
+        "index": "00142",
+        "content": "this",
+        "start_time": 68000.0,
+        "end_time": 68290.0
+    },
+    {
+        "index": "00143",
+        "content": "so",
+        "start_time": 71940.0,
+        "end_time": 72300.0
+    },
+    {
+        "index": "00144",
+        "content": "1000",
+        "start_time": 72310.0,
+        "end_time": 72730.0
+    },
+    {
+        "index": "00145",
+        "content": "shot",
+        "start_time": 72730.0,
+        "end_time": 73000.0
+    },
+    {
+        "index": "00146",
+        "content": "he's",
+        "start_time": 73000.0,
+        "end_time": 73250.0
+    },
+    {
+        "index": "00147",
+        "content": "won",
+        "start_time": 73150.0,
+        "end_time": 73370.0
+    },
+    {
         "index": "00148",
-        "content": "And",
-        "start_time": 67800.0,
-        "end_time": 68360.0
+        "content": "a",
+        "start_time": 73370.0,
+        "end_time": 73540.0
     },
     {
         "index": "00149",
-        "content": "if",
-        "start_time": 68170.0,
-        "end_time": 68630.0
+        "content": "title",
+        "start_time": 73450.0,
+        "end_time": 73840.0
     },
     {
         "index": "00150",
-        "content": "you",
-        "start_time": 68430.0,
-        "end_time": 68870.0
+        "content": "to",
+        "start_time": 74790.0,
+        "end_time": 75330.0
     },
     {
         "index": "00151",
-        "content": "think",
-        "start_time": 68670.0,
-        "end_time": 69180.0
+        "content": "kind",
+        "start_time": 75340.0,
+        "end_time": 75570.0
     },
     {
         "index": "00152",
-        "content": "that",
-        "start_time": 69590.0,
-        "end_time": 70250.0
+        "content": "of",
+        "start_time": 75570.0,
+        "end_time": 75740.0
     },
     {
         "index": "00153",
-        "content": "I'm",
-        "start_time": 70050.0,
-        "end_time": 70560.0
+        "content": "shooter",
+        "start_time": 75640.0,
+        "end_time": 76000.0
     },
     {
         "index": "00154",
-        "content": "still",
-        "start_time": 70670.0,
-        "end_time": 71260.0
+        "content": "So",
+        "start_time": 76000.0,
+        "end_time": 76230.0
     },
     {
         "index": "00155",
-        "content": "holding",
-        "start_time": 71060.0,
-        "end_time": 71960.0
+        "content": "my",
+        "start_time": 76230.0,
+        "end_time": 76510.0
     },
     {
         "index": "00156",
-        "content": "long",
-        "start_time": 71970.0,
-        "end_time": 72540.0
+        "content": "brother",
+        "start_time": 76420.0,
+        "end_time": 76740.0
     },
     {
         "index": "00157",
-        "content": "to",
-        "start_time": 72550.0,
-        "end_time": 72920.0
+        "content": "block",
+        "start_time": 76750.0,
+        "end_time": 77080.0
     },
     {
         "index": "00158",
-        "content": "something",
-        "start_time": 72720.0,
-        "end_time": 73530.0
+        "content": "pedal",
+        "start_time": 77790.0,
+        "end_time": 78360.0
+    },
+    {
+        "index": "00159",
+        "content": "off",
+        "start_time": 78360.0,
+        "end_time": 78600.0
     },
     {
         "index": "00160",
-        "content": "you",
-        "start_time": 73530.0,
-        "end_time": 73920.0
+        "content": "the",
+        "start_time": 78500.0,
+        "end_time": 78700.0
     },
     {
         "index": "00161",
-        "content": "should",
-        "start_time": 73720.0,
-        "end_time": 74220.0
+        "content": "rose",
+        "start_time": 78610.0,
+        "end_time": 79060.0
     },
     {
         "index": "00162",
-        "content": "go",
-        "start_time": 74030.0,
-        "end_time": 74580.0
+        "content": "like",
+        "start_time": 79060.0,
+        "end_time": 79280.0
     },
     {
         "index": "00163",
-        "content": "love",
-        "start_time": 74590.0,
-        "end_time": 75180.0
+        "content": "I",
+        "start_time": 79280.0,
+        "end_time": 79450.0
     },
     {
         "index": "00164",
-        "content": "your",
-        "start_time": 74990.0,
-        "end_time": 75640.0
+        "content": "love",
+        "start_time": 79350.0,
+        "end_time": 79610.0
     },
     {
         "index": "00165",
-        "content": "so",
-        "start_time": 75440.0,
-        "end_time": 75990.0
+        "content": "enough",
+        "start_time": 79610.0,
+        "end_time": 80020.0
+    },
+    {
+        "index": "00166",
+        "content": "Maybe",
+        "start_time": 80170.0,
+        "end_time": 80480.0
     },
     {
         "index": "00167",
-        "content": "But",
-        "start_time": 77610.0,
-        "end_time": 77980.0
+        "content": "not",
+        "start_time": 80480.0,
+        "end_time": 80690.0
     },
     {
         "index": "00168",
-        "content": "when",
-        "start_time": 77780.0,
-        "end_time": 78150.0
+        "content": "I",
+        "start_time": 80890.0,
+        "end_time": 81090.0
     },
     {
         "index": "00169",
-        "content": "you",
-        "start_time": 77950.0,
-        "end_time": 78320.0
+        "content": "don't",
+        "start_time": 81000.0,
+        "end_time": 81260.0
     },
     {
         "index": "00170",
-        "content": "saw",
-        "start_time": 78130.0,
-        "end_time": 78630.0
+        "content": "know",
+        "start_time": 81260.0,
+        "end_time": 81540.0
     },
     {
         "index": "00171",
-        "content": "me",
-        "start_time": 78630.0,
-        "end_time": 78980.0
+        "content": "what's",
+        "start_time": 81440.0,
+        "end_time": 81640.0
+    },
+    {
+        "index": "00172",
+        "content": "wrong",
+        "start_time": 81640.0,
+        "end_time": 81850.0
     },
     {
         "index": "00173",
-        "content": "that",
-        "start_time": 78780.0,
-        "end_time": 79320.0
+        "content": "with",
+        "start_time": 81850.0,
+        "end_time": 82040.0
     },
     {
         "index": "00174",
-        "content": "show",
-        "start_time": 79120.0,
-        "end_time": 79710.0
+        "content": "me",
+        "start_time": 81940.0,
+        "end_time": 82230.0
     },
     {
         "index": "00175",
-        "content": "hated",
-        "start_time": 79510.0,
-        "end_time": 80360.0
+        "content": "Stop",
+        "start_time": 82440.0,
+        "end_time": 83190.0
     },
     {
         "index": "00176",
-        "content": "my",
-        "start_time": 80360.0,
-        "end_time": 80780.0
+        "content": "Stop",
+        "start_time": 83900.0,
+        "end_time": 84670.0
     },
     {
         "index": "00177",
-        "content": "friend",
-        "start_time": 80580.0,
-        "end_time": 81450.0
+        "content": "stop",
+        "start_time": 85380.0,
+        "end_time": 85960.0
+    },
+    {
+        "index": "00178",
+        "content": "That's",
+        "start_time": 86030.0,
+        "end_time": 86300.0
     },
     {
         "index": "00179",
-        "content": "The",
-        "start_time": 82320.0,
-        "end_time": 82720.0
+        "content": "so",
+        "start_time": 86200.0,
+        "end_time": 86420.0
     },
     {
         "index": "00180",
-        "content": "only",
-        "start_time": 82520.0,
-        "end_time": 83030.0
+        "content": "mean",
+        "start_time": 86320.0,
+        "end_time": 86750.0
     },
     {
         "index": "00181",
-        "content": "problem",
-        "start_time": 82830.0,
-        "end_time": 83610.0
+        "content": "being",
+        "start_time": 87020.0,
+        "end_time": 87300.0
     },
     {
         "index": "00182",
-        "content": "was",
-        "start_time": 83610.0,
-        "end_time": 84250.0
+        "content": "mistaken",
+        "start_time": 87300.0,
+        "end_time": 87870.0
     },
     {
         "index": "00183",
-        "content": "with",
-        "start_time": 84050.0,
-        "end_time": 84600.0
+        "content": "for",
+        "start_time": 88060.0,
+        "end_time": 88290.0
     },
     {
         "index": "00184",
-        "content": "you",
-        "start_time": 84400.0,
-        "end_time": 84980.0
+        "content": "other",
+        "start_time": 88200.0,
+        "end_time": 88570.0
     },
     {
         "index": "00185",
-        "content": "nothing",
-        "start_time": 84790.0,
-        "end_time": 86040.0
+        "content": "people",
+        "start_time": 89570.0,
+        "end_time": 89990.0
     },
     {
         "index": "00186",
-        "content": "and",
-        "start_time": 87130.0,
-        "end_time": 87570.0
+        "content": "that",
+        "start_time": 90090.0,
+        "end_time": 90310.0
     },
     {
         "index": "00187",
-        "content": "every",
-        "start_time": 87370.0,
-        "end_time": 87900.0
+        "content": "I",
+        "start_time": 90310.0,
+        "end_time": 90440.0
     },
     {
         "index": "00188",
-        "content": "so",
-        "start_time": 87700.0,
-        "end_time": 88350.0
+        "content": "love",
+        "start_time": 90350.0,
+        "end_time": 90880.0
     },
     {
         "index": "00189",
-        "content": "you",
-        "start_time": 88160.0,
-        "end_time": 88650.0
+        "content": "out",
+        "start_time": 90880.0,
+        "end_time": 91160.0
     },
     {
         "index": "00190",
-        "content": "told",
-        "start_time": 88460.0,
-        "end_time": 89040.0
+        "content": "of",
+        "start_time": 91060.0,
+        "end_time": 91230.0
     },
     {
         "index": "00191",
-        "content": "me",
-        "start_time": 88840.0,
-        "end_time": 89250.0
+        "content": "trouble",
+        "start_time": 91140.0,
+        "end_time": 91470.0
+    },
+    {
+        "index": "00192",
+        "content": "spot",
+        "start_time": 91470.0,
+        "end_time": 91850.0
     },
     {
         "index": "00193",
-        "content": "was",
-        "start_time": 90000.0,
-        "end_time": 90600.0
+        "content": "other",
+        "start_time": 91910.0,
+        "end_time": 92300.0
     },
     {
         "index": "00194",
-        "content": "Well",
-        "start_time": 90400.0,
-        "end_time": 90960.0
+        "content": "than",
+        "start_time": 92300.0,
+        "end_time": 92590.0
+    },
+    {
+        "index": "00195",
+        "content": "her",
+        "start_time": 92490.0,
+        "end_time": 92680.0
     },
     {
         "index": "00196",
-        "content": "try",
-        "start_time": 92000.0,
-        "end_time": 92510.0
+        "content": "family",
+        "start_time": 92580.0,
+        "end_time": 93270.0
     },
     {
         "index": "00197",
-        "content": "to",
-        "start_time": 92310.0,
-        "end_time": 92600.0
+        "content": "I've",
+        "start_time": 93270.0,
+        "end_time": 93450.0
     },
     {
         "index": "00198",
-        "content": "make",
-        "start_time": 92410.0,
-        "end_time": 93030.0
+        "content": "got",
+        "start_time": 93360.0,
+        "end_time": 93590.0
     },
     {
         "index": "00199",
-        "content": "me",
-        "start_time": 93030.0,
-        "end_time": 93380.0
+        "content": "to",
+        "start_time": 93590.0,
+        "end_time": 93790.0
     },
     {
         "index": "00200",
-        "content": "before",
-        "start_time": 93180.0,
-        "end_time": 93830.0
+        "content": "see",
+        "start_time": 93690.0,
+        "end_time": 93930.0
     },
     {
         "index": "00201",
-        "content": "get",
-        "start_time": 93630.0,
-        "end_time": 94190.0
+        "content": "the",
+        "start_time": 93930.0,
+        "end_time": 94130.0
     },
     {
         "index": "00202",
-        "content": "about",
-        "start_time": 94000.0,
-        "end_time": 94520.0
+        "content": "you",
+        "start_time": 94130.0,
+        "end_time": 94410.0
+    },
+    {
+        "index": "00203",
+        "content": "mean",
+        "start_time": 94410.0,
+        "end_time": 94980.0
     },
     {
         "index": "00204",
-        "content": "Came",
-        "start_time": 94530.0,
-        "end_time": 95050.0
+        "content": "Yes",
+        "start_time": 95560.0,
+        "end_time": 95800.0
     },
     {
         "index": "00205",
-        "content": "from",
-        "start_time": 94850.0,
-        "end_time": 95770.0
+        "content": "Inside",
+        "start_time": 95800.0,
+        "end_time": 96310.0
     },
     {
         "index": "00206",
-        "content": "and",
-        "start_time": 96570.0,
-        "end_time": 97080.0
+        "content": "drinking",
+        "start_time": 96320.0,
+        "end_time": 96590.0
     },
     {
         "index": "00207",
-        "content": "I",
-        "start_time": 96880.0,
-        "end_time": 97120.0
+        "content": "See",
+        "start_time": 96590.0,
+        "end_time": 96870.0
     },
     {
         "index": "00208",
-        "content": "didn't",
-        "start_time": 96920.0,
-        "end_time": 97460.0
+        "content": "the",
+        "start_time": 96870.0,
+        "end_time": 97120.0
     },
     {
         "index": "00209",
-        "content": "want",
-        "start_time": 97260.0,
-        "end_time": 97640.0
+        "content": "You",
+        "start_time": 97030.0,
+        "end_time": 97350.0
     },
     {
         "index": "00210",
-        "content": "to",
-        "start_time": 97440.0,
-        "end_time": 97700.0
+        "content": "mean",
+        "start_time": 97350.0,
+        "end_time": 97940.0
     },
     {
         "index": "00211",
-        "content": "write",
-        "start_time": 97510.0,
-        "end_time": 98100.0
+        "content": "this",
+        "start_time": 98510.0,
+        "end_time": 98910.0
     },
     {
         "index": "00212",
-        "content": "is",
-        "start_time": 97900.0,
-        "end_time": 98270.0
+        "content": "life",
+        "start_time": 98910.0,
+        "end_time": 99250.0
     },
     {
         "index": "00213",
-        "content": "long",
-        "start_time": 98070.0,
-        "end_time": 98670.0
+        "content": "got",
+        "start_time": 99250.0,
+        "end_time": 99560.0
     },
     {
         "index": "00214",
-        "content": "because",
-        "start_time": 99050.0,
-        "end_time": 99470.0
+        "content": "too",
+        "start_time": 99570.0,
+        "end_time": 99940.0
     },
     {
         "index": "00215",
-        "content": "I",
-        "start_time": 99270.0,
-        "end_time": 99550.0
+        "content": "deep",
+        "start_time": 99950.0,
+        "end_time": 100350.0
     },
     {
         "index": "00216",
-        "content": "didn't",
-        "start_time": 99350.0,
-        "end_time": 99880.0
+        "content": "for",
+        "start_time": 100350.0,
+        "end_time": 100550.0
     },
     {
         "index": "00217",
-        "content": "want",
-        "start_time": 99680.0,
-        "end_time": 100230.0
+        "content": "your",
+        "start_time": 100550.0,
+        "end_time": 100840.0
     },
     {
         "index": "00218",
-        "content": "anyone",
-        "start_time": 100030.0,
-        "end_time": 100540.0
+        "content": "baby",
+        "start_time": 100750.0,
+        "end_time": 101340.0
     },
     {
         "index": "00219",
-        "content": "thinking",
-        "start_time": 100540.0,
-        "end_time": 101280.0
+        "content": "so",
+        "start_time": 101350.0,
+        "end_time": 101640.0
     },
     {
         "index": "00220",
-        "content": "I",
-        "start_time": 101280.0,
-        "end_time": 101540.0
+        "content": "Or",
+        "start_time": 101640.0,
+        "end_time": 101890.0
     },
     {
         "index": "00221",
-        "content": "still",
-        "start_time": 101340.0,
-        "end_time": 101850.0
-    },
-    {
-        "index": "00222",
-        "content": "kava",
-        "start_time": 101650.0,
+        "content": "three",
+        "start_time": 101790.0,
         "end_time": 102250.0
     },
     {
+        "index": "00222",
+        "content": "by",
+        "start_time": 102440.0,
+        "end_time": 102730.0
+    },
+    {
         "index": "00223",
-        "content": "Don't",
-        "start_time": 102260.0,
-        "end_time": 102970.0
+        "content": "the",
+        "start_time": 102730.0,
+        "end_time": 102940.0
     },
     {
         "index": "00224",
-        "content": "But",
-        "start_time": 102970.0,
-        "end_time": 103490.0
+        "content": "creek",
+        "start_time": 102840.0,
+        "end_time": 103260.0
     },
     {
         "index": "00225",
-        "content": "you",
-        "start_time": 103500.0,
-        "end_time": 103940.0
+        "content": "where",
+        "start_time": 103270.0,
+        "end_time": 103470.0
     },
     {
         "index": "00226",
-        "content": "still",
-        "start_time": 103740.0,
-        "end_time": 104390.0
+        "content": "they're",
+        "start_time": 103470.0,
+        "end_time": 103690.0
     },
     {
         "index": "00227",
-        "content": "have",
-        "start_time": 104200.0,
-        "end_time": 104630.0
+        "content": "staying",
+        "start_time": 103590.0,
+        "end_time": 104240.0
     },
     {
         "index": "00228",
-        "content": "my",
-        "start_time": 104440.0,
-        "end_time": 104780.0
+        "content": "Black",
+        "start_time": 104390.0,
+        "end_time": 104720.0
     },
     {
         "index": "00229",
-        "content": "phone",
-        "start_time": 104580.0,
-        "end_time": 105450.0
+        "content": "leather",
+        "start_time": 104730.0,
+        "end_time": 105060.0
     },
     {
         "index": "00230",
-        "content": "up",
-        "start_time": 105450.0,
-        "end_time": 105930.0
+        "content": "club",
+        "start_time": 105060.0,
+        "end_time": 105490.0
     },
     {
         "index": "00231",
-        "content": "And",
-        "start_time": 106350.0,
-        "end_time": 106730.0
+        "content": "No",
+        "start_time": 105490.0,
+        "end_time": 105770.0
     },
     {
         "index": "00232",
-        "content": "baby",
-        "start_time": 106530.0,
-        "end_time": 107150.0
+        "content": "seat",
+        "start_time": 105770.0,
+        "end_time": 106240.0
     },
     {
         "index": "00233",
-        "content": "I'll",
-        "start_time": 106950.0,
-        "end_time": 107210.0
+        "content": "buckles",
+        "start_time": 107210.0,
+        "end_time": 107760.0
     },
     {
         "index": "00234",
-        "content": "be",
-        "start_time": 107010.0,
-        "end_time": 107340.0
+        "content": "on",
+        "start_time": 107760.0,
+        "end_time": 108050.0
     },
     {
         "index": "00235",
-        "content": "moving",
-        "start_time": 107140.0,
-        "end_time": 107720.0
+        "content": "a",
+        "start_time": 107950.0,
+        "end_time": 108150.0
     },
     {
         "index": "00236",
-        "content": "on",
-        "start_time": 107720.0,
-        "end_time": 108280.0
+        "content": "jacket",
+        "start_time": 108050.0,
+        "end_time": 108490.0
     },
     {
         "index": "00237",
-        "content": "e",
-        "start_time": 108290.0,
-        "end_time": 108970.0
+        "content": "It's",
+        "start_time": 108490.0,
+        "end_time": 108770.0
     },
     {
         "index": "00238",
-        "content": "think",
-        "start_time": 108970.0,
-        "end_time": 109480.0
+        "content": "a",
+        "start_time": 108670.0,
+        "end_time": 108890.0
     },
     {
         "index": "00239",
-        "content": "you",
-        "start_time": 109280.0,
-        "end_time": 109600.0
+        "content": "leaky",
+        "start_time": 108790.0,
+        "end_time": 109080.0
     },
     {
         "index": "00240",
-        "content": "should",
-        "start_time": 109400.0,
-        "end_time": 110060.0
+        "content": "ship",
+        "start_time": 109090.0,
+        "end_time": 109440.0
     },
     {
         "index": "00241",
-        "content": "be",
-        "start_time": 109860.0,
-        "end_time": 110220.0
+        "content": "Nike",
+        "start_time": 110150.0,
+        "end_time": 110570.0
     },
     {
         "index": "00242",
-        "content": "something",
-        "start_time": 110020.0,
-        "end_time": 110970.0
+        "content": "cross",
+        "start_time": 110570.0,
+        "end_time": 110980.0
     },
     {
         "index": "00243",
-        "content": "I",
-        "start_time": 110970.0,
-        "end_time": 111260.0
+        "content": "body",
+        "start_time": 110980.0,
+        "end_time": 111350.0
     },
     {
         "index": "00244",
-        "content": "don't",
-        "start_time": 111060.0,
-        "end_time": 111490.0
+        "content": "got",
+        "start_time": 111360.0,
+        "end_time": 111590.0
     },
     {
         "index": "00245",
-        "content": "wanna",
-        "start_time": 111290.0,
-        "end_time": 111910.0
+        "content": "a",
+        "start_time": 111590.0,
+        "end_time": 111820.0
     },
     {
         "index": "00246",
-        "content": "go",
-        "start_time": 111950.0,
-        "end_time": 112520.0
+        "content": "piece",
+        "start_time": 111730.0,
+        "end_time": 112180.0
     },
     {
         "index": "00247",
-        "content": "back",
-        "start_time": 112520.0,
-        "end_time": 113120.0
+        "content": "and",
+        "start_time": 112180.0,
+        "end_time": 112540.0
     },
     {
         "index": "00248",
-        "content": "Maybe",
-        "start_time": 113130.0,
-        "end_time": 113730.0
+        "content": "got",
+        "start_time": 112550.0,
+        "end_time": 113060.0
     },
     {
         "index": "00249",
-        "content": "Yushin",
-        "start_time": 113740.0,
-        "end_time": 114340.0
+        "content": "a",
+        "start_time": 113060.0,
+        "end_time": 113280.0
     },
     {
         "index": "00250",
-        "content": "low",
-        "start_time": 114340.0,
-        "end_time": 114970.0
+        "content": "dance",
+        "start_time": 113190.0,
+        "end_time": 113600.0
     },
     {
         "index": "00251",
-        "content": "that",
-        "start_time": 114970.0,
-        "end_time": 115600.0
+        "content": "But",
+        "start_time": 113600.0,
+        "end_time": 113890.0
     },
     {
         "index": "00252",
-        "content": "my",
-        "start_time": 115760.0,
-        "end_time": 116180.0
+        "content": "it's",
+        "start_time": 113790.0,
+        "end_time": 114080.0
     },
     {
         "index": "00253",
-        "content": "mama",
-        "start_time": 115980.0,
-        "end_time": 116620.0
+        "content": "really",
+        "start_time": 113980.0,
+        "end_time": 114330.0
+    },
+    {
+        "index": "00254",
+        "content": "also",
+        "start_time": 114330.0,
+        "end_time": 114590.0
     },
     {
         "index": "00255",
-        "content": "don't",
-        "start_time": 116420.0,
-        "end_time": 117050.0
+        "content": "street",
+        "start_time": 114590.0,
+        "end_time": 114950.0
     },
     {
         "index": "00256",
-        "content": "I",
-        "start_time": 116850.0,
-        "end_time": 117440.0
+        "content": "shoot",
+        "start_time": 114950.0,
+        "end_time": 115550.0
+    },
+    {
+        "index": "00257",
+        "content": "I'm",
+        "start_time": 115790.0,
+        "end_time": 116050.0
     },
     {
         "index": "00258",
-        "content": "You",
-        "start_time": 117250.0,
-        "end_time": 117790.0
+        "content": "gonna",
+        "start_time": 115950.0,
+        "end_time": 116170.0
     },
     {
         "index": "00259",
-        "content": "know",
-        "start_time": 117590.0,
-        "end_time": 117880.0
+        "content": "show",
+        "start_time": 116070.0,
+        "end_time": 116350.0
     },
     {
         "index": "00260",
-        "content": "she",
-        "start_time": 117760.0,
-        "end_time": 118270.0
+        "content": "you",
+        "start_time": 116350.0,
+        "end_time": 116580.0
     },
     {
         "index": "00261",
-        "content": "likes",
-        "start_time": 118270.0,
-        "end_time": 118830.0
+        "content": "at",
+        "start_time": 116480.0,
+        "end_time": 116750.0
     },
     {
         "index": "00262",
-        "content": "everyone",
-        "start_time": 118630.0,
-        "end_time": 119550.0
+        "content": "it",
+        "start_time": 116750.0,
+        "end_time": 116940.0
+    },
+    {
+        "index": "00263",
+        "content": "Get",
+        "start_time": 116840.0,
+        "end_time": 117150.0
     },
     {
         "index": "00264",
-        "content": "And",
-        "start_time": 120540.0,
-        "end_time": 121020.0
+        "content": "it",
+        "start_time": 117150.0,
+        "end_time": 117430.0
     },
     {
         "index": "00265",
-        "content": "then",
-        "start_time": 120820.0,
-        "end_time": 121360.0
+        "content": "Go",
+        "start_time": 117430.0,
+        "end_time": 117640.0
     },
     {
         "index": "00266",
-        "content": "I",
-        "start_time": 121280.0,
-        "end_time": 122030.0
+        "content": "right",
+        "start_time": 117640.0,
+        "end_time": 117920.0
     },
     {
         "index": "00267",
-        "content": "see",
-        "start_time": 122080.0,
-        "end_time": 122670.0
+        "content": "foot",
+        "start_time": 117930.0,
+        "end_time": 118340.0
     },
     {
         "index": "00268",
-        "content": "a",
-        "start_time": 122560.0,
-        "end_time": 122790.0
+        "content": "that",
+        "start_time": 120510.0,
+        "end_time": 120880.0
     },
     {
         "index": "00269",
-        "content": "man",
-        "start_time": 122600.0,
-        "end_time": 123210.0
+        "content": "foot",
+        "start_time": 120890.0,
+        "end_time": 121320.0
     },
     {
         "index": "00270",
-        "content": "that",
-        "start_time": 123020.0,
-        "end_time": 123470.0
+        "content": "right",
+        "start_time": 121870.0,
+        "end_time": 122400.0
     },
     {
         "index": "00271",
-        "content": "I",
-        "start_time": 123270.0,
-        "end_time": 123580.0
+        "content": "foot",
+        "start_time": 122410.0,
+        "end_time": 122780.0
     },
     {
         "index": "00272",
-        "content": "was",
-        "start_time": 123380.0,
-        "end_time": 123860.0
+        "content": "Basically",
+        "start_time": 123400.0,
+        "end_time": 124080.0
     },
     {
         "index": "00273",
-        "content": "wrong",
-        "start_time": 123660.0,
-        "end_time": 124350.0
+        "content": "I'm",
+        "start_time": 124080.0,
+        "end_time": 124260.0
     },
     {
         "index": "00274",
-        "content": "and",
-        "start_time": 125210.0,
-        "end_time": 125840.0
+        "content": "saying",
+        "start_time": 124160.0,
+        "end_time": 124660.0
     },
     {
         "index": "00275",
-        "content": "I've",
-        "start_time": 125640.0,
-        "end_time": 125950.0
+        "content": "Either",
+        "start_time": 124660.0,
+        "end_time": 124920.0
     },
     {
         "index": "00276",
-        "content": "been",
-        "start_time": 125750.0,
-        "end_time": 126110.0
+        "content": "way",
+        "start_time": 124920.0,
+        "end_time": 125170.0
     },
     {
         "index": "00277",
-        "content": "so",
-        "start_time": 125910.0,
-        "end_time": 126440.0
+        "content": "we",
+        "start_time": 125170.0,
+        "end_time": 125410.0
     },
     {
         "index": "00278",
-        "content": "caught",
-        "start_time": 126240.0,
-        "end_time": 126900.0
+        "content": "about",
+        "start_time": 125310.0,
+        "end_time": 125600.0
     },
     {
         "index": "00279",
-        "content": "him",
-        "start_time": 126700.0,
-        "end_time": 127160.0
+        "content": "so",
+        "start_time": 125600.0,
+        "end_time": 125800.0
     },
     {
         "index": "00280",
-        "content": "and",
-        "start_time": 126960.0,
-        "end_time": 127390.0
+        "content": "I",
+        "start_time": 125800.0,
+        "end_time": 126340.0
     },
     {
         "index": "00281",
-        "content": "my",
-        "start_time": 127190.0,
-        "end_time": 127670.0
+        "content": "can",
+        "start_time": 126350.0,
+        "end_time": 126680.0
     },
     {
         "index": "00282",
-        "content": "job",
-        "start_time": 127470.0,
-        "end_time": 128050.0
+        "content": "let",
+        "start_time": 126680.0,
+        "end_time": 126930.0
     },
     {
         "index": "00283",
-        "content": "did",
-        "start_time": 128100.0,
-        "end_time": 128700.0
+        "content": "this",
+        "start_time": 126830.0,
+        "end_time": 127120.0
     },
     {
         "index": "00284",
-        "content": "and",
-        "start_time": 128500.0,
-        "end_time": 128840.0
+        "content": "one",
+        "start_time": 127020.0,
+        "end_time": 127230.0
     },
     {
         "index": "00285",
-        "content": "see",
-        "start_time": 128640.0,
-        "end_time": 129260.0
+        "content": "slide",
+        "start_time": 127130.0,
+        "end_time": 127600.0
     },
     {
         "index": "00286",
-        "content": "what's",
-        "start_time": 129060.0,
-        "end_time": 129510.0
+        "content": "to",
+        "start_time": 130830.0,
+        "end_time": 131030.0
     },
     {
         "index": "00287",
-        "content": "going",
-        "start_time": 129310.0,
-        "end_time": 130030.0
+        "content": "see",
+        "start_time": 131030.0,
+        "end_time": 131270.0
     },
     {
         "index": "00288",
-        "content": "on",
-        "start_time": 130030.0,
-        "end_time": 130640.0
+        "content": "Slide",
+        "start_time": 131170.0,
+        "end_time": 131640.0
+    },
+    {
+        "index": "00289",
+        "content": "Then",
+        "start_time": 131640.0,
+        "end_time": 131920.0
     },
     {
         "index": "00290",
-        "content": "No",
-        "start_time": 130450.0,
-        "end_time": 131080.0
+        "content": "I",
+        "start_time": 131820.0,
+        "end_time": 132110.0
+    },
+    {
+        "index": "00291",
+        "content": "hit",
+        "start_time": 132020.0,
+        "end_time": 132310.0
     },
     {
         "index": "00292",
-        "content": "no",
-        "start_time": 130990.0,
-        "end_time": 131850.0
+        "content": "a",
+        "start_time": 132210.0,
+        "end_time": 132390.0
+    },
+    {
+        "index": "00293",
+        "content": "double",
+        "start_time": 132300.0,
+        "end_time": 132630.0
     },
     {
         "index": "00294",
-        "content": "I'm",
+        "content": "time",
         "start_time": 132630.0,
-        "end_time": 133170.0
+        "end_time": 133120.0
     },
     {
         "index": "00295",
-        "content": "Steven",
-        "start_time": 133190.0,
-        "end_time": 134090.0
+        "content": "and",
+        "start_time": 133120.0,
+        "end_time": 133340.0
+    },
+    {
+        "index": "00296",
+        "content": "I",
+        "start_time": 133340.0,
+        "end_time": 133510.0
     },
     {
         "index": "00297",
-        "content": "No",
-        "start_time": 134090.0,
-        "end_time": 134660.0
+        "content": "hit",
+        "start_time": 133420.0,
+        "end_time": 133630.0
+    },
+    {
+        "index": "00298",
+        "content": "a",
+        "start_time": 133630.0,
+        "end_time": 133790.0
     },
     {
         "index": "00299",
-        "content": "No",
-        "start_time": 134750.0,
-        "end_time": 135140.0
+        "content": "Schmidt",
+        "start_time": 133690.0,
+        "end_time": 134100.0
+    },
+    {
+        "index": "00300",
+        "content": "because",
+        "start_time": 134110.0,
+        "end_time": 134360.0
     },
     {
         "index": "00301",
-        "content": "Because",
-        "start_time": 134950.0,
-        "end_time": 135560.0
+        "content": "we",
+        "start_time": 134360.0,
+        "end_time": 134560.0
     },
     {
         "index": "00302",
-        "content": "you",
-        "start_time": 135360.0,
-        "end_time": 135710.0
+        "content": "spent",
+        "start_time": 134460.0,
+        "end_time": 134790.0
     },
     {
         "index": "00303",
-        "content": "feel",
-        "start_time": 135510.0,
-        "end_time": 136100.0
+        "content": "a",
+        "start_time": 134790.0,
+        "end_time": 134950.0
     },
     {
         "index": "00304",
-        "content": "like",
-        "start_time": 135910.0,
-        "end_time": 136460.0
+        "content": "block",
+        "start_time": 134850.0,
+        "end_time": 135150.0
     },
     {
         "index": "00305",
-        "content": "the",
-        "start_time": 136840.0,
-        "end_time": 137260.0
+        "content": "a",
+        "start_time": 135150.0,
+        "end_time": 135350.0
     },
     {
         "index": "00306",
-        "content": "way",
-        "start_time": 137060.0,
-        "end_time": 137790.0
+        "content": "couple",
+        "start_time": 135260.0,
+        "end_time": 135570.0
     },
     {
         "index": "00307",
-        "content": "you",
-        "start_time": 137900.0,
-        "end_time": 138440.0
+        "content": "times",
+        "start_time": 135580.0,
+        "end_time": 136070.0
     },
     {
         "index": "00308",
-        "content": "look",
-        "start_time": 138240.0,
-        "end_time": 138790.0
+        "content": "If",
+        "start_time": 136070.0,
+        "end_time": 136320.0
     },
     {
         "index": "00309",
-        "content": "bad",
-        "start_time": 138600.0,
-        "end_time": 139210.0
+        "content": "it's",
+        "start_time": 136220.0,
+        "end_time": 136470.0
     },
     {
         "index": "00310",
-        "content": "much",
-        "start_time": 139020.0,
-        "end_time": 139810.0
+        "content": "not",
+        "start_time": 136370.0,
+        "end_time": 136590.0
+    },
+    {
+        "index": "00311",
+        "content": "the",
+        "start_time": 136590.0,
+        "end_time": 136790.0
     },
     {
         "index": "00312",
-        "content": "Oh",
-        "start_time": 139820.0,
-        "end_time": 140220.0
+        "content": "right",
+        "start_time": 136690.0,
+        "end_time": 137100.0
+    },
+    {
+        "index": "00313",
+        "content": "time",
+        "start_time": 137100.0,
+        "end_time": 137380.0
     },
     {
         "index": "00314",
-        "content": "baby",
-        "start_time": 140020.0,
-        "end_time": 140750.0
+        "content": "I",
+        "start_time": 137380.0,
+        "end_time": 137520.0
+    },
+    {
+        "index": "00315",
+        "content": "will",
+        "start_time": 137420.0,
+        "end_time": 137650.0
     },
     {
         "index": "00316",
-        "content": "you",
-        "start_time": 140760.0,
-        "end_time": 141090.0
+        "content": "always",
+        "start_time": 137550.0,
+        "end_time": 137840.0
     },
     {
         "index": "00317",
-        "content": "should",
-        "start_time": 140890.0,
-        "end_time": 141380.0
+        "content": "be",
+        "start_time": 137850.0,
+        "end_time": 138080.0
     },
     {
         "index": "00318",
-        "content": "go",
-        "start_time": 141190.0,
-        "end_time": 141720.0
+        "content": "another",
+        "start_time": 138080.0,
+        "end_time": 138490.0
     },
     {
         "index": "00319",
-        "content": "and",
-        "start_time": 141730.0,
-        "end_time": 142020.0
+        "content": "time",
+        "start_time": 138490.0,
+        "end_time": 139040.0
     },
     {
         "index": "00320",
-        "content": "love",
-        "start_time": 141830.0,
-        "end_time": 142380.0
+        "content": "I'm",
+        "start_time": 139040.0,
+        "end_time": 139260.0
     },
     {
         "index": "00321",
-        "content": "yourself",
-        "start_time": 142190.0,
-        "end_time": 143140.0
+        "content": "not",
+        "start_time": 139160.0,
+        "end_time": 139390.0
     },
     {
         "index": "00322",
-        "content": "and",
-        "start_time": 144610.0,
-        "end_time": 145150.0
+        "content": "even",
+        "start_time": 139390.0,
+        "end_time": 139630.0
     },
     {
         "index": "00323",
-        "content": "refusing",
-        "start_time": 144960.0,
-        "end_time": 146080.0
+        "content": "tripping",
+        "start_time": 139640.0,
+        "end_time": 140090.0
     },
     {
         "index": "00324",
-        "content": "that",
-        "start_time": 146400.0,
-        "end_time": 147050.0
+        "content": "with",
+        "start_time": 140090.0,
+        "end_time": 140460.0
     },
     {
         "index": "00325",
-        "content": "I'm",
-        "start_time": 146850.0,
-        "end_time": 147380.0
+        "content": "him",
+        "start_time": 140470.0,
+        "end_time": 140840.0
     },
     {
         "index": "00326",
-        "content": "still",
-        "start_time": 147480.0,
-        "end_time": 148070.0
+        "content": "in",
+        "start_time": 140840.0,
+        "end_time": 141070.0
     },
     {
         "index": "00327",
-        "content": "holding",
-        "start_time": 147870.0,
-        "end_time": 148780.0
+        "content": "a",
+        "start_time": 140970.0,
+        "end_time": 141130.0
     },
     {
         "index": "00328",
-        "content": "on",
-        "start_time": 149180.0,
-        "end_time": 149540.0
+        "content": "Sometimes",
+        "start_time": 141030.0,
+        "end_time": 141970.0
     },
     {
         "index": "00329",
-        "content": "to",
-        "start_time": 149350.0,
-        "end_time": 149720.0
+        "content": "you",
+        "start_time": 142130.0,
+        "end_time": 142450.0
     },
     {
         "index": "00330",
-        "content": "so",
-        "start_time": 149520.0,
-        "end_time": 150190.0
+        "content": "can't",
+        "start_time": 142460.0,
+        "end_time": 142830.0
     },
     {
         "index": "00331",
-        "content": "then",
-        "start_time": 150000.0,
-        "end_time": 150520.0
+        "content": "describe",
+        "start_time": 142830.0,
+        "end_time": 143220.0
     },
     {
         "index": "00332",
-        "content": "you",
-        "start_time": 150320.0,
-        "end_time": 150720.0
+        "content": "the",
+        "start_time": 143220.0,
+        "end_time": 143400.0
     },
     {
         "index": "00333",
-        "content": "should",
-        "start_time": 150520.0,
-        "end_time": 151040.0
+        "content": "pressure",
+        "start_time": 143300.0,
+        "end_time": 143840.0
     },
     {
         "index": "00334",
-        "content": "go",
-        "start_time": 150850.0,
-        "end_time": 151520.0
+        "content": "of",
+        "start_time": 143880.0,
+        "end_time": 144070.0
+    },
+    {
+        "index": "00335",
+        "content": "you",
+        "start_time": 143970.0,
+        "end_time": 144210.0
     },
     {
         "index": "00336",
-        "content": "Oh",
-        "start_time": 173730.0,
-        "end_time": 174150.0
+        "content": "putting",
+        "start_time": 144110.0,
+        "end_time": 144440.0
+    },
+    {
+        "index": "00337",
+        "content": "know",
+        "start_time": 144440.0,
+        "end_time": 144710.0
     },
     {
         "index": "00338",
-        "content": "that",
-        "start_time": 173950.0,
-        "end_time": 174360.0
+        "content": "myself",
+        "start_time": 144610.0,
+        "end_time": 145120.0
     },
     {
         "index": "00339",
-        "content": "sounds",
-        "start_time": 174160.0,
-        "end_time": 174770.0
+        "content": "really",
+        "start_time": 145580.0,
+        "end_time": 146050.0
     },
     {
         "index": "00340",
-        "content": "that's",
-        "start_time": 174770.0,
-        "end_time": 175320.0
+        "content": "I",
+        "start_time": 146050.0,
+        "end_time": 146210.0
     },
     {
         "index": "00341",
-        "content": "your",
-        "start_time": 175120.0,
-        "end_time": 175540.0
+        "content": "just",
+        "start_time": 146110.0,
+        "end_time": 146310.0
     },
     {
         "index": "00342",
-        "content": "name",
-        "start_time": 175340.0,
-        "end_time": 176020.0
+        "content": "can't",
+        "start_time": 146310.0,
+        "end_time": 146530.0
+    },
+    {
+        "index": "00343",
+        "content": "afford",
+        "start_time": 146530.0,
+        "end_time": 146940.0
     },
     {
         "index": "00344",
-        "content": "Really",
-        "start_time": 176030.0,
-        "end_time": 176490.0
+        "content": "a",
+        "start_time": 146940.0,
+        "end_time": 147110.0
     },
     {
         "index": "00345",
-        "content": "feel",
-        "start_time": 176290.0,
-        "end_time": 176830.0
+        "content": "little",
+        "start_time": 147010.0,
+        "end_time": 147270.0
     },
     {
         "index": "00346",
-        "content": "so",
-        "start_time": 176630.0,
-        "end_time": 177220.0
+        "content": "nobody",
+        "start_time": 147170.0,
+        "end_time": 147950.0
+    },
+    {
+        "index": "00347",
+        "content": "get",
+        "start_time": 148520.0,
+        "end_time": 148770.0
     },
     {
         "index": "00348",
-        "content": "um",
-        "start_time": 177030.0,
-        "end_time": 177650.0
+        "content": "a",
+        "start_time": 148770.0,
+        "end_time": 148940.0
     },
     {
         "index": "00349",
-        "content": "fairly",
-        "start_time": 178480.0,
-        "end_time": 179020.0
+        "content": "move",
+        "start_time": 148840.0,
+        "end_time": 149100.0
     },
     {
         "index": "00350",
-        "content": "low",
-        "start_time": 178830.0,
-        "end_time": 179520.0
+        "content": "on",
+        "start_time": 149100.0,
+        "end_time": 149270.0
+    },
+    {
+        "index": "00351",
+        "content": "Shaky",
+        "start_time": 149170.0,
+        "end_time": 149640.0
     },
     {
         "index": "00352",
-        "content": "No",
-        "start_time": 179330.0,
-        "end_time": 179990.0
+        "content": "with",
+        "start_time": 149640.0,
+        "end_time": 149980.0
+    },
+    {
+        "index": "00353",
+        "content": "do",
+        "start_time": 150000.0,
+        "end_time": 150280.0
     },
     {
         "index": "00354",
-        "content": "in",
-        "start_time": 180000.0,
-        "end_time": 180630.0
+        "content": "this",
+        "start_time": 150180.0,
+        "end_time": 150410.0
     },
     {
         "index": "00355",
-        "content": "that",
-        "start_time": 180960.0,
-        "end_time": 181550.0
+        "content": "shit",
+        "start_time": 150310.0,
+        "end_time": 150550.0
     },
     {
         "index": "00356",
-        "content": "I",
-        "start_time": 183040.0,
-        "end_time": 183270.0
+        "content": "ourselves",
+        "start_time": 150550.0,
+        "end_time": 151110.0
     },
     {
         "index": "00357",
-        "content": "never",
-        "start_time": 183170.0,
-        "end_time": 183860.0
+        "content": "But",
+        "start_time": 151120.0,
+        "end_time": 151350.0
     },
     {
         "index": "00358",
-        "content": "felt",
-        "start_time": 183660.0,
-        "end_time": 184310.0
+        "content": "if",
+        "start_time": 151420.0,
+        "end_time": 151680.0
     },
     {
         "index": "00359",
-        "content": "so",
-        "start_time": 184120.0,
-        "end_time": 185000.0
+        "content": "I'm",
+        "start_time": 151680.0,
+        "end_time": 151880.0
     },
     {
         "index": "00360",
-        "content": "was",
-        "start_time": 187840.0,
-        "end_time": 188390.0
+        "content": "over",
+        "start_time": 151880.0,
+        "end_time": 152100.0
     },
     {
         "index": "00361",
-        "content": "I",
-        "start_time": 188190.0,
-        "end_time": 188500.0
+        "content": "shake",
+        "start_time": 152100.0,
+        "end_time": 152410.0
     },
     {
         "index": "00362",
-        "content": "have",
-        "start_time": 188300.0,
-        "end_time": 188680.0
+        "content": "each",
+        "start_time": 152410.0,
+        "end_time": 152630.0
     },
     {
         "index": "00363",
-        "content": "full",
-        "start_time": 188480.0,
-        "end_time": 189000.0
+        "content": "other",
+        "start_time": 152630.0,
+        "end_time": 152860.0
     },
     {
         "index": "00364",
-        "content": "so",
-        "start_time": 189000.0,
-        "end_time": 189550.0
+        "content": "due",
+        "start_time": 152870.0,
+        "end_time": 153110.0
     },
     {
         "index": "00365",
-        "content": "that",
-        "start_time": 189360.0,
-        "end_time": 189900.0
+        "content": "to",
+        "start_time": 153110.0,
+        "end_time": 153300.0
     },
     {
         "index": "00366",
-        "content": "you",
-        "start_time": 189700.0,
-        "end_time": 190130.0
+        "content": "shit",
+        "start_time": 153200.0,
+        "end_time": 153470.0
     },
     {
         "index": "00367",
-        "content": "bring",
-        "start_time": 189930.0,
-        "end_time": 190500.0
+        "content": "himself",
+        "start_time": 153470.0,
+        "end_time": 153950.0
     },
     {
         "index": "00368",
-        "content": "love",
-        "start_time": 190380.0,
-        "end_time": 190950.0
+        "content": "Your",
+        "start_time": 153960.0,
+        "end_time": 154220.0
     },
     {
         "index": "00369",
-        "content": "owes",
-        "start_time": 190950.0,
-        "end_time": 191700.0
+        "content": "solo",
+        "start_time": 154230.0,
+        "end_time": 155150.0
+    },
+    {
+        "index": "00370",
+        "content": "figures",
+        "start_time": 155160.0,
+        "end_time": 155570.0
     },
     {
         "index": "00371",
-        "content": "Because",
-        "start_time": 192540.0,
-        "end_time": 193190.0
+        "content": "on",
+        "start_time": 155570.0,
+        "end_time": 155830.0
     },
     {
         "index": "00372",
-        "content": "if",
-        "start_time": 192990.0,
-        "end_time": 193470.0
+        "content": "a",
+        "start_time": 155730.0,
+        "end_time": 155980.0
     },
     {
         "index": "00373",
-        "content": "you're",
-        "start_time": 193270.0,
-        "end_time": 193970.0
+        "content": "goal",
+        "start_time": 155880.0,
+        "end_time": 156220.0
     },
     {
         "index": "00374",
-        "content": "the",
-        "start_time": 194410.0,
-        "end_time": 194880.0
+        "content": "O'Farrill",
+        "start_time": 156220.0,
+        "end_time": 157020.0
     },
     {
         "index": "00375",
-        "content": "way",
-        "start_time": 194680.0,
-        "end_time": 195410.0
+        "content": "hurt",
+        "start_time": 157190.0,
+        "end_time": 157580.0
     },
     {
         "index": "00376",
-        "content": "you",
-        "start_time": 195500.0,
-        "end_time": 196030.0
+        "content": "a",
+        "start_time": 157580.0,
+        "end_time": 157790.0
     },
     {
         "index": "00377",
-        "content": "looked",
-        "start_time": 195830.0,
-        "end_time": 196470.0
+        "content": "lot",
+        "start_time": 157690.0,
+        "end_time": 157920.0
     },
     {
         "index": "00378",
-        "content": "at",
-        "start_time": 196270.0,
-        "end_time": 196910.0
+        "content": "of",
+        "start_time": 157920.0,
+        "end_time": 158150.0
     },
     {
         "index": "00379",
-        "content": "this",
-        "start_time": 196830.0,
-        "end_time": 197480.0
+        "content": "budget",
+        "start_time": 158060.0,
+        "end_time": 158410.0
     },
     {
         "index": "00380",
-        "content": "baby",
-        "start_time": 197440.0,
-        "end_time": 198360.0
+        "content": "but",
+        "start_time": 158410.0,
+        "end_time": 158610.0
+    },
+    {
+        "index": "00381",
+        "content": "we",
+        "start_time": 158610.0,
+        "end_time": 158890.0
     },
     {
         "index": "00382",
-        "content": "you",
-        "start_time": 198370.0,
-        "end_time": 198700.0
+        "content": "don't",
+        "start_time": 158800.0,
+        "end_time": 159100.0
     },
     {
         "index": "00383",
-        "content": "should",
-        "start_time": 198500.0,
-        "end_time": 199010.0
+        "content": "know",
+        "start_time": 159100.0,
+        "end_time": 159300.0
     },
     {
         "index": "00384",
-        "content": "go",
-        "start_time": 198820.0,
-        "end_time": 199510.0
+        "content": "for",
+        "start_time": 159300.0,
+        "end_time": 159790.0
     },
     {
         "index": "00385",
-        "content": "and",
-        "start_time": 199320.0,
-        "end_time": 199630.0
+        "content": "next",
+        "start_time": 160210.0,
+        "end_time": 160680.0
     },
     {
         "index": "00386",
-        "content": "love",
-        "start_time": 199440.0,
-        "end_time": 199980.0
+        "content": "time",
+        "start_time": 160680.0,
+        "end_time": 161030.0
     },
     {
         "index": "00387",
-        "content": "yourself",
-        "start_time": 199790.0,
-        "end_time": 200790.0
+        "content": "Currency",
+        "start_time": 161030.0,
+        "end_time": 161570.0
     },
     {
         "index": "00388",
-        "content": "In",
-        "start_time": 202200.0,
-        "end_time": 202730.0
+        "content": "the",
+        "start_time": 161570.0,
+        "end_time": 161780.0
     },
     {
         "index": "00389",
-        "content": "refusing",
-        "start_time": 202540.0,
-        "end_time": 203710.0
+        "content": "true",
+        "start_time": 161680.0,
+        "end_time": 161930.0
     },
     {
         "index": "00390",
-        "content": "that",
-        "start_time": 203990.0,
-        "end_time": 204660.0
+        "content": "Forgive",
+        "start_time": 161930.0,
+        "end_time": 162330.0
     },
     {
         "index": "00391",
-        "content": "I'm",
-        "start_time": 204460.0,
-        "end_time": 205090.0
+        "content": "her",
+        "start_time": 162330.0,
+        "end_time": 162530.0
     },
     {
         "index": "00392",
-        "content": "still",
-        "start_time": 205080.0,
-        "end_time": 205660.0
+        "content": "veil",
+        "start_time": 162430.0,
+        "end_time": 162940.0
     },
     {
         "index": "00393",
-        "content": "holding",
-        "start_time": 205460.0,
-        "end_time": 206360.0
+        "content": "Black",
+        "start_time": 163180.0,
+        "end_time": 163560.0
     },
     {
         "index": "00394",
-        "content": "long",
-        "start_time": 206370.0,
-        "end_time": 206940.0
+        "content": "leather",
+        "start_time": 163570.0,
+        "end_time": 163880.0
     },
     {
         "index": "00395",
-        "content": "to",
-        "start_time": 206950.0,
-        "end_time": 207320.0
+        "content": "club",
+        "start_time": 163890.0,
+        "end_time": 164330.0
     },
     {
         "index": "00396",
-        "content": "something",
-        "start_time": 207120.0,
-        "end_time": 207940.0
+        "content": "No",
+        "start_time": 164330.0,
+        "end_time": 164580.0
+    },
+    {
+        "index": "00397",
+        "content": "seat",
+        "start_time": 164580.0,
+        "end_time": 165030.0
     },
     {
         "index": "00398",
-        "content": "You",
-        "start_time": 207940.0,
-        "end_time": 208310.0
+        "content": "Will's",
+        "start_time": 165040.0,
+        "end_time": 165550.0
     },
     {
         "index": "00399",
-        "content": "should",
-        "start_time": 208110.0,
-        "end_time": 208620.0
+        "content": "buckles",
+        "start_time": 166030.0,
+        "end_time": 166590.0
     },
     {
         "index": "00400",
-        "content": "go",
-        "start_time": 208430.0,
-        "end_time": 209110.0
+        "content": "on",
+        "start_time": 166590.0,
+        "end_time": 166860.0
     },
     {
         "index": "00401",
-        "content": "yours",
-        "start_time": 209350.0,
-        "end_time": 209990.0
+        "content": "a",
+        "start_time": 166760.0,
+        "end_time": 166960.0
+    },
+    {
+        "index": "00402",
+        "content": "jacket",
+        "start_time": 166860.0,
+        "end_time": 167320.0
     },
     {
         "index": "00403",
-        "content": "the",
-        "start_time": 213630.0,
-        "end_time": 213930.0
+        "content": "is",
+        "start_time": 167320.0,
+        "end_time": 167600.0
     },
     {
         "index": "00404",
-        "content": "way",
-        "start_time": 213860.0,
-        "end_time": 214530.0
+        "content": "a",
+        "start_time": 167500.0,
+        "end_time": 167740.0
     },
     {
         "index": "00405",
-        "content": "you",
-        "start_time": 214710.0,
-        "end_time": 215250.0
+        "content": "leech",
+        "start_time": 167640.0,
+        "end_time": 168340.0
     },
     {
         "index": "00406",
-        "content": "looked",
-        "start_time": 215060.0,
-        "end_time": 215680.0
+        "content": "like",
+        "start_time": 169090.0,
+        "end_time": 169340.0
     },
     {
         "index": "00407",
-        "content": "at",
-        "start_time": 215480.0,
-        "end_time": 216010.0
+        "content": "it",
+        "start_time": 169340.0,
+        "end_time": 169520.0
     },
     {
         "index": "00408",
-        "content": "much",
-        "start_time": 215810.0,
-        "end_time": 216620.0
+        "content": "Cross",
+        "start_time": 169420.0,
+        "end_time": 169780.0
+    },
+    {
+        "index": "00409",
+        "content": "bite",
+        "start_time": 169780.0,
+        "end_time": 170070.0
     },
     {
         "index": "00410",
-        "content": "baby",
-        "start_time": 216680.0,
-        "end_time": 217440.0
+        "content": "it",
+        "start_time": 170070.0,
+        "end_time": 170250.0
+    },
+    {
+        "index": "00411",
+        "content": "Got",
+        "start_time": 170150.0,
+        "end_time": 170420.0
     },
     {
         "index": "00412",
-        "content": "you",
-        "start_time": 217440.0,
-        "end_time": 217960.0
+        "content": "a",
+        "start_time": 170420.0,
+        "end_time": 170610.0
     },
     {
         "index": "00413",
-        "content": "should",
-        "start_time": 217760.0,
-        "end_time": 218200.0
+        "content": "visa",
+        "start_time": 170520.0,
+        "end_time": 171130.0
     },
     {
         "index": "00414",
-        "content": "go",
-        "start_time": 218010.0,
-        "end_time": 218540.0
+        "content": "Gotta",
+        "start_time": 171540.0,
+        "end_time": 171950.0
     },
     {
         "index": "00415",
-        "content": "so",
-        "start_time": 219390.0,
-        "end_time": 220040.0
+        "content": "dance",
+        "start_time": 171960.0,
+        "end_time": 172400.0
     },
     {
         "index": "00416",
-        "content": "on",
-        "start_time": 220830.0,
-        "end_time": 221730.0
+        "content": "but",
+        "start_time": 172400.0,
+        "end_time": 172620.0
     },
     {
         "index": "00417",
-        "content": "defusing",
-        "start_time": 221730.0,
-        "end_time": 222540.0
+        "content": "it's",
+        "start_time": 172620.0,
+        "end_time": 172880.0
     },
     {
         "index": "00418",
-        "content": "you",
-        "start_time": 222550.0,
-        "end_time": 223100.0
+        "content": "thrilling",
+        "start_time": 172790.0,
+        "end_time": 173120.0
     },
     {
         "index": "00419",
-        "content": "still",
-        "start_time": 224280.0,
-        "end_time": 224880.0
+        "content": "Elsa",
+        "start_time": 173120.0,
+        "end_time": 173430.0
     },
     {
         "index": "00420",
-        "content": "holding",
-        "start_time": 224690.0,
-        "end_time": 225400.0
+        "content": "Street",
+        "start_time": 173430.0,
+        "end_time": 173820.0
     },
     {
         "index": "00421",
-        "content": "know",
-        "start_time": 225410.0,
-        "end_time": 226330.0
+        "content": "shoot",
+        "start_time": 173820.0,
+        "end_time": 174370.0
     },
     {
         "index": "00422",
-        "content": "something",
-        "start_time": 226520.0,
-        "end_time": 227150.0
+        "content": "I'm",
+        "start_time": 174620.0,
+        "end_time": 174880.0
+    },
+    {
+        "index": "00423",
+        "content": "gonna",
+        "start_time": 174780.0,
+        "end_time": 175000.0
+    },
+    {
+        "index": "00424",
+        "content": "show",
+        "start_time": 174900.0,
+        "end_time": 175180.0
+    },
+    {
+        "index": "00425",
+        "content": "you",
+        "start_time": 175180.0,
+        "end_time": 175380.0
+    },
+    {
+        "index": "00426",
+        "content": "how",
+        "start_time": 175390.0,
+        "end_time": 175870.0
+    },
+    {
+        "index": "00427",
+        "content": "it",
+        "start_time": 176040.0,
+        "end_time": 176240.0
+    },
+    {
+        "index": "00428",
+        "content": "go",
+        "start_time": 176250.0,
+        "end_time": 176480.0
+    },
+    {
+        "index": "00429",
+        "content": "right",
+        "start_time": 176480.0,
+        "end_time": 176780.0
+    },
+    {
+        "index": "00430",
+        "content": "right",
+        "start_time": 180700.0,
+        "end_time": 181260.0
+    },
+    {
+        "index": "00431",
+        "content": "Basically",
+        "start_time": 182240.0,
+        "end_time": 182890.0
+    },
+    {
+        "index": "00432",
+        "content": "I'm",
+        "start_time": 182890.0,
+        "end_time": 183090.0
+    },
+    {
+        "index": "00433",
+        "content": "saying",
+        "start_time": 182990.0,
+        "end_time": 183490.0
+    },
+    {
+        "index": "00434",
+        "content": "Either",
+        "start_time": 183490.0,
+        "end_time": 183740.0
+    },
+    {
+        "index": "00435",
+        "content": "way",
+        "start_time": 183740.0,
+        "end_time": 184000.0
+    },
+    {
+        "index": "00436",
+        "content": "we're",
+        "start_time": 184000.0,
+        "end_time": 184240.0
+    },
+    {
+        "index": "00437",
+        "content": "about",
+        "start_time": 184140.0,
+        "end_time": 184370.0
+    },
+    {
+        "index": "00438",
+        "content": "to",
+        "start_time": 184380.0,
+        "end_time": 184540.0
+    },
+    {
+        "index": "00439",
+        "content": "start",
+        "start_time": 184450.0,
+        "end_time": 184740.0
+    },
+    {
+        "index": "00440",
+        "content": "I",
+        "start_time": 184740.0,
+        "end_time": 185160.0
+    },
+    {
+        "index": "00441",
+        "content": "can",
+        "start_time": 185170.0,
+        "end_time": 185510.0
+    },
+    {
+        "index": "00442",
+        "content": "let",
+        "start_time": 185510.0,
+        "end_time": 185760.0
+    },
+    {
+        "index": "00443",
+        "content": "this",
+        "start_time": 185660.0,
+        "end_time": 185940.0
+    },
+    {
+        "index": "00444",
+        "content": "one",
+        "start_time": 185840.0,
+        "end_time": 186050.0
+    },
+    {
+        "index": "00445",
+        "content": "slide",
+        "start_time": 185950.0,
+        "end_time": 186410.0
+    },
+    {
+        "index": "00446",
+        "content": "Don't",
+        "start_time": 187460.0,
+        "end_time": 187720.0
+    },
+    {
+        "index": "00447",
+        "content": "you",
+        "start_time": 187720.0,
+        "end_time": 187940.0
+    },
+    {
+        "index": "00448",
+        "content": "want",
+        "start_time": 187840.0,
+        "end_time": 188110.0
+    },
+    {
+        "index": "00449",
+        "content": "to",
+        "start_time": 188110.0,
+        "end_time": 188280.0
+    },
+    {
+        "index": "00450",
+        "content": "dance",
+        "start_time": 188180.0,
+        "end_time": 188640.0
+    },
+    {
+        "index": "00451",
+        "content": "with",
+        "start_time": 188640.0,
+        "end_time": 188900.0
+    },
+    {
+        "index": "00452",
+        "content": "me",
+        "start_time": 188800.0,
+        "end_time": 189100.0
+    },
+    {
+        "index": "00453",
+        "content": "No",
+        "start_time": 189320.0,
+        "end_time": 189760.0
+    },
+    {
+        "index": "00454",
+        "content": "I",
+        "start_time": 190040.0,
+        "end_time": 190300.0
+    },
+    {
+        "index": "00455",
+        "content": "could",
+        "start_time": 190200.0,
+        "end_time": 190420.0
+    },
+    {
+        "index": "00456",
+        "content": "guess",
+        "start_time": 190430.0,
+        "end_time": 190680.0
+    },
+    {
+        "index": "00457",
+        "content": "I'm",
+        "start_time": 190680.0,
+        "end_time": 190910.0
+    },
+    {
+        "index": "00458",
+        "content": "Michael",
+        "start_time": 190810.0,
+        "end_time": 191170.0
+    },
+    {
+        "index": "00459",
+        "content": "Chang",
+        "start_time": 191170.0,
+        "end_time": 191480.0
+    },
+    {
+        "index": "00460",
+        "content": "I",
+        "start_time": 192950.0,
+        "end_time": 193230.0
+    },
+    {
+        "index": "00461",
+        "content": "could",
+        "start_time": 193130.0,
+        "end_time": 193340.0
+    },
+    {
+        "index": "00462",
+        "content": "get",
+        "start_time": 193340.0,
+        "end_time": 193780.0
+    },
+    {
+        "index": "00463",
+        "content": "up",
+        "start_time": 193780.0,
+        "end_time": 194090.0
+    },
+    {
+        "index": "00464",
+        "content": "Hey",
+        "start_time": 194100.0,
+        "end_time": 194460.0
+    },
+    {
+        "index": "00465",
+        "content": "it's",
+        "start_time": 195500.0,
+        "end_time": 196140.0
+    },
+    {
+        "index": "00466",
+        "content": "a",
+        "start_time": 196140.0,
+        "end_time": 196400.0
+    },
+    {
+        "index": "00467",
+        "content": "brilliant",
+        "start_time": 196310.0,
+        "end_time": 196920.0
+    },
+    {
+        "index": "00468",
+        "content": "track",
+        "start_time": 196930.0,
+        "end_time": 197380.0
+    },
+    {
+        "index": "00469",
+        "content": "Really",
+        "start_time": 197850.0,
+        "end_time": 198080.0
+    },
+    {
+        "index": "00470",
+        "content": "Front",
+        "start_time": 198080.0,
+        "end_time": 198440.0
+    },
+    {
+        "index": "00471",
+        "content": "maybe",
+        "start_time": 198840.0,
+        "end_time": 199240.0
+    },
+    {
+        "index": "00472",
+        "content": "Don't",
+        "start_time": 199250.0,
+        "end_time": 199480.0
+    },
+    {
+        "index": "00473",
+        "content": "you",
+        "start_time": 199480.0,
+        "end_time": 199690.0
+    },
+    {
+        "index": "00474",
+        "content": "want",
+        "start_time": 199590.0,
+        "end_time": 199870.0
+    },
+    {
+        "index": "00475",
+        "content": "to",
+        "start_time": 199870.0,
+        "end_time": 200030.0
+    },
+    {
+        "index": "00476",
+        "content": "dance",
+        "start_time": 199940.0,
+        "end_time": 200420.0
+    },
+    {
+        "index": "00477",
+        "content": "with",
+        "start_time": 200420.0,
+        "end_time": 200670.0
+    },
+    {
+        "index": "00478",
+        "content": "me",
+        "start_time": 200570.0,
+        "end_time": 201120.0
+    },
+    {
+        "index": "00479",
+        "content": "No",
+        "start_time": 201120.0,
+        "end_time": 201650.0
+    },
+    {
+        "index": "00480",
+        "content": "I",
+        "start_time": 201880.0,
+        "end_time": 202130.0
+    },
+    {
+        "index": "00481",
+        "content": "could",
+        "start_time": 202030.0,
+        "end_time": 202250.0
+    },
+    {
+        "index": "00482",
+        "content": "guess",
+        "start_time": 202250.0,
+        "end_time": 202480.0
+    },
+    {
+        "index": "00483",
+        "content": "I'm",
+        "start_time": 202480.0,
+        "end_time": 202720.0
+    },
+    {
+        "index": "00484",
+        "content": "Michael",
+        "start_time": 202620.0,
+        "end_time": 202900.0
+    },
+    {
+        "index": "00485",
+        "content": "J",
+        "start_time": 202900.0,
+        "end_time": 203490.0
+    },
+    {
+        "index": "00486",
+        "content": "I",
+        "start_time": 204770.0,
+        "end_time": 205020.0
+    },
+    {
+        "index": "00487",
+        "content": "could",
+        "start_time": 204920.0,
+        "end_time": 205210.0
+    },
+    {
+        "index": "00488",
+        "content": "get",
+        "start_time": 205110.0,
+        "end_time": 205320.0
+    },
+    {
+        "index": "00489",
+        "content": "your",
+        "start_time": 205320.0,
+        "end_time": 205520.0
+    },
+    {
+        "index": "00490",
+        "content": "satisfied",
+        "start_time": 205420.0,
+        "end_time": 206140.0
+    },
+    {
+        "index": "00491",
+        "content": "You",
+        "start_time": 207750.0,
+        "end_time": 208100.0
+    },
+    {
+        "index": "00492",
+        "content": "know",
+        "start_time": 208100.0,
+        "end_time": 208390.0
+    },
+    {
+        "index": "00493",
+        "content": "we",
+        "start_time": 208290.0,
+        "end_time": 208530.0
+    },
+    {
+        "index": "00494",
+        "content": "are",
+        "start_time": 208530.0,
+        "end_time": 208750.0
+    },
+    {
+        "index": "00495",
+        "content": "here",
+        "start_time": 208650.0,
+        "end_time": 208920.0
+    },
+    {
+        "index": "00496",
+        "content": "every",
+        "start_time": 208830.0,
+        "end_time": 209130.0
+    },
+    {
+        "index": "00497",
+        "content": "day",
+        "start_time": 209140.0,
+        "end_time": 209530.0
+    },
+    {
+        "index": "00498",
+        "content": "with",
+        "start_time": 209530.0,
+        "end_time": 209810.0
+    },
+    {
+        "index": "00499",
+        "content": "it",
+        "start_time": 209810.0,
+        "end_time": 210090.0
+    },
+    {
+        "index": "00500",
+        "content": "I'm",
+        "start_time": 210000.0,
+        "end_time": 210180.0
+    },
+    {
+        "index": "00501",
+        "content": "gonna",
+        "start_time": 210080.0,
+        "end_time": 210300.0
+    },
+    {
+        "index": "00502",
+        "content": "show",
+        "start_time": 210200.0,
+        "end_time": 210460.0
+    },
+    {
+        "index": "00503",
+        "content": "you",
+        "start_time": 210460.0,
+        "end_time": 210750.0
+    },
+    {
+        "index": "00504",
+        "content": "how",
+        "start_time": 210650.0,
+        "end_time": 210900.0
+    },
+    {
+        "index": "00505",
+        "content": "to",
+        "start_time": 210800.0,
+        "end_time": 211030.0
+    },
+    {
+        "index": "00506",
+        "content": "get",
+        "start_time": 210940.0,
+        "end_time": 211270.0
+    },
+    {
+        "index": "00507",
+        "content": "it",
+        "start_time": 211270.0,
+        "end_time": 211560.0
+    },
+    {
+        "index": "00508",
+        "content": "and",
+        "start_time": 211460.0,
+        "end_time": 211660.0
+    },
+    {
+        "index": "00509",
+        "content": "go",
+        "start_time": 211560.0,
+        "end_time": 211770.0
+    },
+    {
+        "index": "00510",
+        "content": "right",
+        "start_time": 211770.0,
+        "end_time": 212050.0
+    },
+    {
+        "index": "00511",
+        "content": "foot",
+        "start_time": 212060.0,
+        "end_time": 212470.0
+    },
+    {
+        "index": "00512",
+        "content": "huh",
+        "start_time": 212540.0,
+        "end_time": 212960.0
+    },
+    {
+        "index": "00513",
+        "content": "That",
+        "start_time": 213230.0,
+        "end_time": 213500.0
+    },
+    {
+        "index": "00514",
+        "content": "Footstar",
+        "start_time": 213510.0,
+        "end_time": 214330.0
+    },
+    {
+        "index": "00515",
+        "content": "that",
+        "start_time": 214590.0,
+        "end_time": 214980.0
+    },
+    {
+        "index": "00516",
+        "content": "foot",
+        "start_time": 214990.0,
+        "end_time": 215460.0
+    },
+    {
+        "index": "00517",
+        "content": "right",
+        "start_time": 216060.0,
+        "end_time": 216490.0
+    },
+    {
+        "index": "00518",
+        "content": "foot",
+        "start_time": 216500.0,
+        "end_time": 216900.0
+    },
+    {
+        "index": "00519",
+        "content": "Basically",
+        "start_time": 217400.0,
+        "end_time": 218240.0
+    },
+    {
+        "index": "00520",
+        "content": "I'm",
+        "start_time": 218240.0,
+        "end_time": 218440.0
+    },
+    {
+        "index": "00521",
+        "content": "saying",
+        "start_time": 218340.0,
+        "end_time": 218820.0
+    },
+    {
+        "index": "00522",
+        "content": "either",
+        "start_time": 218820.0,
+        "end_time": 219070.0
+    },
+    {
+        "index": "00523",
+        "content": "way",
+        "start_time": 219080.0,
+        "end_time": 223990.0
     }
 ]

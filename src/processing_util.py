@@ -14,6 +14,13 @@ def clear_folder(path_to_folder):
                 shutil.rmtree(file_path)
         except Exception as e:
             print('Failed to delete %s. Reason: %s' % (file_path, e))
+            
+def clear_s3_folder(bucket, bucket_client, path_to_folder):
+    """
+    Deletes all objects in specified folder within s3 bucket. 
+    """
+    for object_summary in bucket.objects.filter(Prefix=path_to_folder):
+        bucket_client.delete_object(Bucket=bucket.name, Key=object_summary.key)
 
 class TranscriptionItem:
 
